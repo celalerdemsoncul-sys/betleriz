@@ -1,0 +1,147 @@
+{
+  "revision": 1,
+  "updatedAt": "2026-10-20T08:08:04.718197+00:00",
+  "defaultLanguage": "tr",
+  "stores": {
+    "android": {
+      "status": "soon",
+      "url": ""
+    },
+    "ios": {
+      "status": "soon",
+      "url": ""
+    }
+  },
+  "supportEmail": "",
+  "pages": [
+    {
+      "id": "privacy-policy",
+      "active": true,
+      "status": "draft",
+      "translations": {
+        "tr": {
+          "title": "Gizlilik Politikası",
+          "content": "Betleriz; favori maçları, takımları, dil ve hatırlatma tercihlerini cihazda saklar. Kredi ve tahmin erişimi için sunucuda cihaz cüzdanı, reklam oturumları ve erişim kayıtları tutulur.\n\nReklam hizmetleri kendi veri işleme koşullarına tabidir. Yayından önce işletmeci adı, iletişim adresi, saklama süreleri, veri silme yöntemi ve kullanılan üçüncü taraf hizmetleri bu metinde tamamlanmalıdır."
+        },
+        "en": {
+          "title": "Privacy Policy",
+          "content": "Betleriz stores favorite matches, teams, language and reminder preferences on the device. The server keeps a device wallet, ad sessions and prediction access records.\n\nAd services have their own data practices. Before publication, complete the operator identity, contact details, retention periods, deletion process and third-party services in this text."
+        },
+        "az": {
+          "title": "Məxfilik Siyasəti",
+          "content": "Betleriz sevimli oyunları, komandaları, dil və xatırlatma seçimlərini cihazda saxlayır. Serverdə cihaz cüzdanı, reklam sessiyaları və proqnoz giriş qeydləri saxlanılır.\n\nYayımdan əvvəl operator, əlaqə məlumatları, saxlanma müddətləri, silinmə üsulu və üçüncü tərəf xidmətləri tamamlanmalıdır."
+        },
+        "ur": {
+          "title": "رازداری کی پالیسی",
+          "content": "Betleriz پسندیدہ میچ، ٹیمیں، زبان اور یاد دہانی کی ترجیحات آلے پر محفوظ کرتا ہے۔ سرور پر ڈیوائس والٹ، اشتہاری سیشن اور پیش گوئی تک رسائی کے ریکارڈ محفوظ ہوتے ہیں۔\n\nاشاعت سے پہلے منتظم، رابطہ، ڈیٹا رکھنے کی مدت، حذف کرنے کا طریقہ اور تیسرے فریق کی خدمات کی تفصیل مکمل کریں۔"
+        },
+        "hi": {
+          "title": "गोपनीयता नीति",
+          "content": "Betleriz पसंदीदा मैच, टीमें, भाषा और रिमाइंडर विकल्प उपकरण पर सहेजता है। सर्वर पर डिवाइस वॉलेट, विज्ञापन सत्र और पूर्वानुमान एक्सेस रिकॉर्ड रखे जाते हैं।\n\nप्रकाशन से पहले संचालक, संपर्क, डेटा रखने की अवधि, हटाने का तरीका और तीसरे पक्ष की सेवाओं की जानकारी पूरी करें।"
+        },
+        "th": {
+          "title": "นโยบายความเป็นส่วนตัว",
+          "content": "Betleriz บันทึกทีมและนัดโปรด ภาษา และการแจ้งเตือนบนอุปกรณ์ เซิร์ฟเวอร์เก็บกระเป๋าอุปกรณ์ เซสชันโฆษณา และบันทึกสิทธิ์ดูการคาดการณ์\n\nก่อนเผยแพร่ ต้องเพิ่มผู้ให้บริการ ข้อมูลติดต่อ ระยะเวลาเก็บข้อมูล วิธีลบ และบริการบุคคลที่สาม"
+        },
+        "id": {
+          "title": "Kebijakan Privasi",
+          "content": "Betleriz menyimpan tim, laga favorit, bahasa dan preferensi pengingat pada perangkat. Server menyimpan dompet perangkat, sesi iklan dan catatan akses prediksi.\n\nSebelum terbit, lengkapi identitas pengelola, kontak, masa penyimpanan, proses penghapusan dan layanan pihak ketiga."
+        },
+        "ar": {
+          "title": "سياسة الخصوصية",
+          "content": "يحفظ Betleriz الفرق والمباريات المفضلة واللغة وتفضيلات التذكير على الجهاز. يحتفظ الخادم بمحفظة الجهاز وجلسات الإعلانات وسجلات الوصول إلى التوقعات.\n\nقبل النشر يجب استكمال هوية المشغل وبيانات الاتصال ومدد الاحتفاظ وطريقة الحذف وخدمات الجهات الخارجية."
+        },
+        "ku": {
+          "title": "Siyaseta Nepenîtiyê",
+          "content": "Betleriz maç û tîmên bijare, ziman û vebijarkên bîranînê li ser amûrê tomar dike. Server cûzdanê amûrê, rûniştinên reklaman û tomarên gihîştina texmînan digire.\n\nBerî weşanê nasnameya rêvebir, têkilî, demên ragirtinê, rêya jêbirinê û xizmetên aliyên sêyemîn temam bikin."
+        }
+      }
+    },
+    {
+      "id": "terms-of-service",
+      "active": true,
+      "status": "draft",
+      "translations": {
+        "tr": {
+          "title": "Kullanım Koşulları",
+          "content": "Betleriz spor fikstürü ve tahmin bilgileri sunar. Tahminler sonuç veya kazanç garantisi değildir.\n\nGünün ilk 10 tamamlanmış ve doğrulanmış reklam videosu bir yeni tahmin açma hakkı verir. Ek 50 video, tüm tahminler sayfasına tek görüntüleme hakkı kazandırır. Sayfadan çıkış erişimi bitirir; kullanılmayan hak Kıbrıs saatiyle 00.00’da sona erer. Reklam bulunması garanti edilmez.\n\nYayın öncesinde işletmeci, yaş uygunluğu, ödeme varsa fiyatlandırma ve destek koşulları tamamlanmalıdır."
+        },
+        "en": {
+          "title": "Terms of Use",
+          "content": "Betleriz provides sports fixtures and prediction information. Predictions do not guarantee results or winnings.\n\nThe first 10 completed, verified ad videos each day earn one new prediction unlock. An additional 50 videos earn one view of the all-predictions page. Leaving ends access; unused access expires at midnight Cyprus time. Ad availability is not guaranteed.\n\nBefore publication, complete operator, age eligibility, any payment pricing and support terms."
+        },
+        "az": {
+          "title": "İstifadə Şərtləri",
+          "content": "Betleriz oyun təqvimi və proqnoz məlumatları verir. Nəticə və qazanc zəmanəti yoxdur. Günün ilk 10 tamamlanmış və təsdiqlənmiş reklamı bir yeni proqnoz açır. Əlavə 50 video bütün proqnozlar səhifəsinə bir baxış verir. Çıxış girişi bitirir; istifadə olunmayan hüquq Kipr vaxtı 00.00-da bitir. Reklam mövcudluğu zəmanətli deyil.\n\nYayımdan əvvəl operator, yaş uyğunluğu, ödəniş və dəstək şərtlərini tamamlayın."
+        },
+        "ur": {
+          "title": "استعمال کی شرائط",
+          "content": "Betleriz میچ شیڈول اور پیش گوئیاں فراہم کرتا ہے۔ نتیجے یا جیت کی ضمانت نہیں۔ روز کے پہلے 10 مکمل اور تصدیق شدہ ویڈیوز ایک نئی پیش گوئی کھولتے ہیں۔ مزید 50 ویڈیوز تمام پیش گوئیوں کا صفحہ صرف ایک بار دیکھنے دیتے ہیں۔ نکلنے پر رسائی ختم ہوتی ہے؛ غیر استعمال شدہ حق قبرص کے وقت رات 12 بجے ختم ہوتا ہے۔ اشتہار کی دستیابی کی ضمانت نہیں۔\n\nاشاعت سے پہلے منتظم، عمر، ادائیگی اور مدد کی شرائط مکمل کریں۔"
+        },
+        "hi": {
+          "title": "उपयोग की शर्तें",
+          "content": "Betleriz मैच कार्यक्रम और पूर्वानुमान देता है। परिणाम या जीत की गारंटी नहीं। दिन के पहले 10 पूरे और सत्यापित विज्ञापन वीडियो एक नया पूर्वानुमान खोलते हैं। 50 और वीडियो से सभी पूर्वानुमानों का पेज एक बार देख सकते हैं। बाहर निकलने पर एक्सेस समाप्त; अप्रयुक्त अधिकार साइप्रस समय रात 12 बजे समाप्त होता है। विज्ञापन की उपलब्धता की गारंटी नहीं।\n\nप्रकाशन से पहले संचालक, आयु पात्रता, भुगतान और सहायता शर्तें पूरी करें।"
+        },
+        "th": {
+          "title": "ข้อกำหนดการใช้งาน",
+          "content": "Betleriz ให้ข้อมูลตารางแข่งและการคาดการณ์ ไม่รับประกันผลหรือเงินรางวัล วิดีโอโฆษณา 10 รายการแรกที่ดูจบและยืนยันในแต่ละวันเปิด 1 การคาดการณ์ใหม่ เพิ่มอีก 50 รายการดูหน้าการคาดการณ์ทั้งหมดได้ครั้งเดียว ออกแล้วสิทธิ์สิ้นสุด สิทธิ์ที่ยังไม่ใช้หมดอายุเที่ยงคืนเวลาไซปรัส ไม่รับประกันว่ามีโฆษณา\n\nก่อนเผยแพร่ ต้องเพิ่มผู้ให้บริการ เกณฑ์อายุ การชำระเงิน และเงื่อนไขช่วยเหลือ"
+        },
+        "id": {
+          "title": "Ketentuan Penggunaan",
+          "content": "Betleriz menyediakan jadwal olahraga dan informasi prediksi tanpa jaminan hasil atau kemenangan. 10 video iklan pertama yang selesai dan diverifikasi setiap hari membuka satu prediksi baru. Tambahan 50 video memberi satu kali tampilan halaman semua prediksi. Keluar mengakhiri akses; hak yang belum digunakan berakhir tengah malam waktu Siprus. Ketersediaan iklan tidak dijamin.\n\nLengkapi pengelola, batas usia, pembayaran dan ketentuan dukungan sebelum terbit."
+        },
+        "ar": {
+          "title": "شروط الاستخدام",
+          "content": "يوفر Betleriz جداول رياضية وتوقعات دون ضمان للنتائج أو الأرباح. أول 10 فيديوهات إعلانية مكتملة ومؤكدة يومياً تفتح توقعاً جديداً واحداً. تمنح 50 فيديو إضافياً مشاهدة واحدة لصفحة جميع التوقعات. ينتهي الوصول عند الخروج؛ وتنتهي الصلاحية غير المستخدمة منتصف الليل بتوقيت قبرص. توفر الإعلانات غير مضمون.\n\nأكمل بيانات المشغل والأهلية العمرية والدفع والدعم قبل النشر."
+        },
+        "ku": {
+          "title": "Mercên Bikaranînê",
+          "content": "Betleriz bernameya werzîşê û texmînan pêşkêş dike. Encam an qezenc nayê garantîkirin. 10 vîdyoyên reklamê yên yekem ên rojê yên temam û piştrastkirî yek texmîna nû vedikin. 50 vîdyoyên din rûpela hemû texmînan tenê carekê vedikin. Derketin gihîştinê diqedîne; mafê nebikaranî saet 00.00 bi dema Qibrisê diqede. Hebûna reklaman garantî nîne.\n\nBerî weşanê rêvebir, mercên temenê, dravdan û piştgiriyê temam bikin."
+        }
+      }
+    },
+    {
+      "id": "cookie-policy",
+      "active": true,
+      "status": "draft",
+      "translations": {
+        "tr": {
+          "title": "Çerez ve Yerel Depolama",
+          "content": "Mobil uygulamanın cihazda tuttuğu dil, favori ve cüzdan anahtarı verileri tarayıcı çerezlerinden farklıdır. Yerel yönetim ekranı, düzenleme oturumunu ve istek doğrulamasını korumak için oturum çerezi kullanır.\n\nBu sayfa çerez izni mekanizması yerine geçmez. Canlı web sitesinde kullanılan çerezler, üçüncü taraflar, amaçlar, süreler ve tercih değiştirme yöntemi yayından önce eklenmelidir."
+        },
+        "en": {
+          "title": "Cookies and Local Storage",
+          "content": "Device storage for language, favorites and wallet tokens in the mobile app is different from browser cookies. The local admin screen uses a session cookie to protect the editing session and verify requests.\n\nThis page does not replace a cookie consent mechanism. Before publication, document the live website cookies, third parties, purposes, lifetimes and preference controls."
+        },
+        "az": {
+          "title": "Kukilər və Yerli Yaddaş",
+          "content": "Mobil cihazda saxlanan seçimlər brauzer kukilərindən fərqlidir. Yerli idarəetmə ekranı sessiyanı və sorğuları qorumaq üçün sessiya kukisi istifadə edir.\n\nBu səhifə razılıq mexanizmi deyil. Canlı saytın kukiləri, məqsədləri, müddətləri və seçim dəyişmə üsulu yayımdan əvvəl əlavə edilməlidir."
+        },
+        "ur": {
+          "title": "کوکیز اور مقامی اسٹوریج",
+          "content": "موبائل کی مقامی ترجیحات براؤزر کوکیز سے مختلف ہیں۔ مقامی انتظامی اسکرین سیشن اور درخواستوں کی حفاظت کے لیے سیشن کوکی استعمال کرتی ہے۔\n\nیہ صفحہ رضامندی کا نظام نہیں۔ اشاعت سے پہلے ویب سائٹ کی کوکیز، مقاصد، مدت اور ترجیحات بدلنے کا طریقہ درج کریں۔"
+        },
+        "hi": {
+          "title": "कुकीज़ और स्थानीय संग्रहण",
+          "content": "मोबाइल उपकरण में सहेजे गए विकल्प ब्राउज़र कुकीज़ से अलग हैं। स्थानीय प्रबंधन स्क्रीन सत्र और अनुरोधों की सुरक्षा के लिए सत्र कुकी का उपयोग करती है।\n\nयह पेज सहमति प्रणाली का विकल्प नहीं है। प्रकाशन से पहले वेबसाइट की कुकीज़, उद्देश्य, अवधि और विकल्प बदलने का तरीका जोड़ें।"
+        },
+        "th": {
+          "title": "คุกกี้และพื้นที่เก็บข้อมูลในเครื่อง",
+          "content": "ข้อมูลที่เก็บในแอปมือถือแตกต่างจากคุกกี้เบราว์เซอร์ หน้าจัดการในเครื่องใช้คุกกี้เซสชันเพื่อปกป้องเซสชันและตรวจสอบคำขอ\n\nหน้านี้ไม่แทนระบบขอความยินยอม ต้องระบุคุกกี้เว็บไซต์ วัตถุประสงค์ ระยะเวลา และวิธีเปลี่ยนการตั้งค่าก่อนเผยแพร่"
+        },
+        "id": {
+          "title": "Cookie dan Penyimpanan Lokal",
+          "content": "Penyimpanan preferensi pada aplikasi seluler berbeda dari cookie browser. Panel admin lokal menggunakan cookie sesi untuk melindungi sesi dan memverifikasi permintaan.\n\nHalaman ini tidak menggantikan mekanisme persetujuan. Dokumentasikan cookie situs, tujuan, masa berlaku dan cara mengubah preferensi sebelum terbit."
+        },
+        "ar": {
+          "title": "ملفات تعريف الارتباط والتخزين المحلي",
+          "content": "يختلف التخزين المحلي في تطبيق الهاتف عن ملفات تعريف الارتباط في المتصفح. تستخدم لوحة الإدارة المحلية ملف جلسة لحماية الجلسة والتحقق من الطلبات.\n\nهذه الصفحة لا تحل محل آلية الموافقة. أضف ملفات الموقع وأغراضها ومددها وطريقة تغيير التفضيلات قبل النشر."
+        },
+        "ku": {
+          "title": "Cookie û Hilanîna Herêmî",
+          "content": "Hilanîna vebijarkan di sepana mobîl de ji cookieyên gerokê cuda ye. Panela rêveberiya herêmî ji bo parastina rûniştinê û kontrola daxwazan cookieya rûniştinê bi kar tîne.\n\nEv rûpel şûna pergala razîbûnê nagire. Berî weşanê cookieyên malperê, armanc, dem û rêya guherandina vebijarkan binivîsin."
+        }
+      }
+    }
+  ]
+}

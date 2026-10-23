@@ -1,0 +1,72 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="com.android.vending.BILLING" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+
+    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
+    <!-- Play Console reklam kimliği beyanı: manifest birleşiminde düşmesin diye merge -->
+    <uses-permission
+        android:name="com.google.android.gms.permission.AD_ID"
+        tools:node="merge" />
+    <!-- Android 13+ reklam kimliği (Privacy / Play Services) -->
+    <uses-permission
+        android:name="android.permission.ACCESS_ADSERVICES_AD_ID"
+        tools:node="merge" />
+
+    <application
+      android:name=".MainApplication"
+      android:label="@string/app_name"
+      android:icon="@mipmap/ic_launcher"
+      android:roundIcon="@mipmap/ic_launcher_round"
+      android:allowBackup="false"
+      android:theme="@style/AppTheme"
+      android:supportsRtl="true"
+      android:usesCleartextTraffic="true">
+
+      <meta-data android:name="com.google.android.gms.ads.APPLICATION_ID" android:value="${betlerizAdMobAppId}" />
+      <meta-data
+        android:name="com.google.firebase.analytics.collection_enabled"
+        android:value="true" />
+      <meta-data
+        android:name="com.google.firebase.analytics.collection_deactivated"
+        android:value="false" />
+      <activity
+        android:name=".MainActivity"
+        android:label="@string/app_name"
+        android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|smallestScreenSize|uiMode|orientation"
+        android:launchMode="singleTask"
+        android:windowSoftInputMode="adjustResize"
+        android:exported="true">
+        <intent-filter>
+            <action android:name="android.intent.action.MAIN" />
+            <category android:name="android.intent.category.LAUNCHER" />
+        </intent-filter>
+      </activity>
+
+      <service
+        android:name="io.invertase.firebase.messaging.ReactNativeFirebaseMessagingService"
+        android:exported="false">
+        <intent-filter>
+          <action android:name="com.google.firebase.MESSAGING_EVENT" />
+        </intent-filter>
+      </service>
+
+      <service
+        android:name="io.invertase.firebase.messaging.ReactNativeFirebaseMessagingHeadlessService"
+        android:exported="false" />
+
+      <receiver android:name=".BetlerizReminderReceiver" android:exported="false" />
+      <receiver android:name=".BetlerizBootReceiver" android:exported="true">
+        <intent-filter>
+          <action android:name="android.intent.action.BOOT_COMPLETED" />
+          <action android:name="android.intent.action.MY_PACKAGE_REPLACED" />
+          <action android:name="android.intent.action.TIME_SET" />
+          <action android:name="android.intent.action.TIMEZONE_CHANGED" />
+        </intent-filter>
+      </receiver>
+    </application>
+</manifest>

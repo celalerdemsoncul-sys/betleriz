@@ -1,0 +1,2776 @@
+[
+    {
+        "matchId": 36,
+        "homeTeam": "Ferrocarril Midland",
+        "awayTeam": "Acassuso",
+        "matchTime": "00:00",
+        "matchDate": "2026-04-09T00:00:00+01:00",
+        "competitionName": "Argentina Nacional B",
+        "leagueFlag": "https:\/\/www.mybets.today\/images\/leagues\/argentina-nacional-b.png",
+        "predictions": {
+            "winner": {
+                "type": "Winner",
+                "prediction": "Ferrocarril Midland",
+                "percentage": 67
+            },
+            "totalgoals": {
+                "type": "Total Goals",
+                "prediction": "Under 2.5",
+                "percentage": 61,
+                "cardType": [
+                    "multi-50"
+                ]
+            },
+            "htft": {
+                "type": "HT\/FT",
+                "prediction": "1\/1",
+                "percentage": 30
+            },
+            "correctscore": {
+                "type": "Correct Score",
+                "prediction": "1:0",
+                "percentage": 16
+            },
+            "btts": {
+                "type": "Both Teams To Score",
+                "prediction": "No",
+                "percentage": 57
+            }
+        },
+        "teamFlags": {
+            "Ferrocarril Midland": "https:\/\/www.mybets.today\/images\/clubes\/ferrocarril-midland.png",
+            "Acassuso": "https:\/\/www.mybets.today\/images\/clubes\/acassuso.png"
+        }
+    },
+    {
+        "matchId": 285014,
+        "homeTeam": "Westchester SC",
+        "awayTeam": "Sarasota Paradise",
+        "matchTime": "00:00",
+        "matchDate": "2026-04-09T00:00:00+01:00",
+        "competitionName": "USA USL League One",
+        "leagueFlag": "https:\/\/www.mybets.today\/images\/leagues\/usa-usl-league-one.png",
+        "predictions": {
+            "winner": {
+                "type": "Winner",
+                "prediction": "Westchester SC",
+                "percentage": 49
+            },
+            "totalgoals": {
+                "type": "Total Goals",
+                "prediction": "Over 2.5",
+                "percentage": 63
+            },
+            "htft": {
+                "type": "HT\/FT",
+                "prediction": "X\/1",
+                "percentage": 33,
+                "cardType": [
+                    "multi-50"
+                ]
+            },
+            "correctscore": {
+                "type": "Correct Score",
+                "prediction": "3:1",
+                "percentage": 11
+            },
+            "btts": {
+                "type": "Both Teams To Score",
+                "prediction": "Yes",
+                "percentage": 58
+            }
+        },
+        "teamFlags": {
+            "Westchester SC": "https:\/\/www.mybets.today\/images\/clubes\/westchester-sc.png",
+            "Sarasota Paradise": "https:\/\/www.mybets.today\/images\/clubes\/sarasota-paradise.png"
+        }
+    },
+    {
+        "matchId": 284549,
+        "homeTeam": "Independiente Medellin",
+        "awayTeam": "Estudiantes LP",
+        "matchTime": "01:00",
+        "matchDate": "2026-04-09T01:00:00+01:00",
+        "competitionName": "Copa Libertadores",
+        "leagueFlag": "https:\/\/www.mybets.today\/images\/leagues\/copa-libertadores.png",
+        "predictions": {
+            "winner": {
+                "type": "Winner",
+                "prediction": "Draw",
+                "percentage": 52
+            },
+            "totalgoals": {
+                "type": "Total Goals",
+                "prediction": "Under 2.5",
+                "percentage": 66,
+                "cardType": [
+                    "multi-50"
+                ]
+            },
+            "htft": {
+                "type": "HT\/FT",
+                "prediction": "X\/X",
+                "percentage": 37
+            },
+            "correctscore": {
+                "type": "Correct Score",
+                "prediction": "0:0",
+                "percentage": 19
+            },
+            "btts": {
+                "type": "Both Teams To Score",
+                "prediction": "No",
+                "percentage": 69
+            }
+        },
+        "teamFlags": {
+            "Independiente Medellin": "https:\/\/www.mybets.today\/images\/clubes\/independiente-medellin.png",
+            "Estudiantes LP": "https:\/\/www.mybets.today\/images\/clubes\/estudiantes-lp.png"
+        }
+    },
+    {
+        "matchId": 74,
+        "homeTeam": "Audax Italiano",
+        "awayTeam": "Olimpia Asuncion",
+        "matchTime": "01:00",
+        "matchDate": "2026-04-09T01:00:00+01:00",
+        "competitionName": "Copa Sudamericana",
+        "leagueFlag": "https:\/\/www.mybets.today\/images\/leagues\/copa-sudamericana.png",
+        "predictions": {
+            "winner": {
+                "type": "Winner",
+                "prediction": "Draw",
+                "percentage": 52,
+                "cardType": [
+                    "fixed"
+                ]
+            },
+            "totalgoals": {
+                "type": "Total Goals",
+                "prediction": "Over 2.5",
+                "percentage": 69,
+                "cardType": [
+                    "over-under"
+                ]
+            },
+            "htft": {
+                "type": "HT\/FT",
+                "prediction": "X\/X",
+                "percentage": 28
+            },
+            "correctscore": {
+                "type": "Correct Score",
+                "prediction": "2:2",
+                "percentage": 10
+            },
+            "btts": {
+                "type": "Both Teams To Score",
+                "prediction": "Yes",
+                "percentage": 58,
+                "cardType": [
+                    "multi-50"
+                ]
+            }
+        },
+        "teamFlags": {
+            "Audax Italiano": "https:\/\/www.mybets.today\/images\/clubes\/audax-italiano.png",
+            "Olimpia Asuncion": "https:\/\/www.mybets.today\/images\/clubes\/olimpia-asuncion.png"
+        }
+    },
+    {
+        "matchId": 284867,
+        "homeTeam": "Universidad Catolica del Ecuador",
+        "awayTeam": "Emelec",
+        "matchTime": "01:00",
+        "matchDate": "2026-04-09T01:00:00+01:00",
+        "competitionName": "Ecuador LigaPro Serie A",
+        "leagueFlag": "https:\/\/www.mybets.today\/images\/leagues\/ecuador-ligapro-serie-a.png",
+        "predictions": {
+            "winner": {
+                "type": "Winner",
+                "prediction": "Universidad Catolica del Ecuador",
+                "percentage": 56,
+                "cardType": [
+                    "multi-50"
+                ]
+            },
+            "totalgoals": {
+                "type": "Total Goals",
+                "prediction": "Over 2.5",
+                "percentage": 71
+            },
+            "htft": {
+                "type": "HT\/FT",
+                "prediction": "1\/1",
+                "percentage": 38,
+                "cardType": [
+                    "mixed"
+                ]
+            },
+            "correctscore": {
+                "type": "Correct Score",
+                "prediction": "2:1",
+                "percentage": 20
+            },
+            "btts": {
+                "type": "Both Teams To Score",
+                "prediction": "Yes",
+                "percentage": 71
+            }
+        },
+        "teamFlags": {
+            "Universidad Catolica del Ecuador": "https:\/\/www.mybets.today\/images\/clubes\/universidad-catolica-del-ecuador.png",
+            "Emelec": "https:\/\/www.mybets.today\/images\/clubes\/emelec.png"
+        }
+    },
+    {
+        "matchId": 284990,
+        "homeTeam": "Matagalpa FC",
+        "awayTeam": "Diriangen",
+        "matchTime": "01:00",
+        "matchDate": "2026-04-09T01:00:00+01:00",
+        "competitionName": "Nicaragua Clausura",
+        "leagueFlag": "https:\/\/www.mybets.today\/images\/leagues\/nicaragua-clausura.png",
+        "predictions": {
+            "winner": {
+                "type": "Winner",
+                "prediction": "Diriangen",
+                "percentage": 58
+            },
+            "totalgoals": {
+                "type": "Total Goals",
+                "prediction": "Under 2.5",
+                "percentage": 68,
+                "cardType": [
+                    "multi-50"
+                ]
+            },
+            "htft": {
+                "type": "HT\/FT",
+                "prediction": "2\/2",
+                "percentage": 34
+            },
+            "correctscore": {
+                "type": "Correct Score",
+                "prediction": "0:2",
+                "percentage": 14
+            },
+            "btts": {
+                "type": "Both Teams To Score",
+                "prediction": "No",
+                "percentage": 64
+            }
+        },
+        "teamFlags": {
+            "Matagalpa FC": "https:\/\/www.mybets.today\/images\/clubes\/matagalpa-fc.png",
+            "Diriangen": "https:\/\/www.mybets.today\/images\/clubes\/diriangen.png"
+        }
+    },
+    {
+        "matchId": 3,
+        "homeTeam": "Sarmiento Junin",
+        "awayTeam": "Tristan Suarez",
+        "matchTime": "01:10",
+        "matchDate": "2026-04-09T01:10:00+01:00",
+        "competitionName": "Argentina Copa Argentina",
+        "leagueFlag": "https:\/\/www.mybets.today\/images\/leagues\/argentina-copa-argentina.png",
+        "predictions": {
+            "winner": {
+                "type": "Winner",
+                "prediction": "Sarmiento Junin",
+                "percentage": 69,
+                "cardType": [
+                    "multi-50"
+                ]
+            },
+            "totalgoals": {
+                "type": "Total Goals",
+                "prediction": "Over 2.5",
+                "percentage": 62
+            },
+            "htft": {
+                "type": "HT\/FT",
+                "prediction": "X\/1",
+                "percentage": 32
+            },
+            "correctscore": {
+                "type": "Correct Score",
+                "prediction": "2:1",
+                "percentage": 16
+            },
+            "btts": {
+                "type": "Both Teams To Score",
+                "prediction": "Yes",
+                "percentage": 66
+            }
+        },
+        "teamFlags": {
+            "Sarmiento Junin": "https:\/\/www.mybets.today\/images\/clubes\/sarmiento-junin.png",
+            "Tristan Suarez": "https:\/\/www.mybets.today\/images\/clubes\/tristan-suarez.png"
+        }
+    },
+    {
+        "matchId": 7,
+        "homeTeam": "Ceara",
+        "awayTeam": "Fortaleza",
+        "matchTime": "01:30",
+        "matchDate": "2026-04-09T01:30:00+01:00",
+        "competitionName": "Brazil Copa Nordeste",
+        "leagueFlag": "https:\/\/www.mybets.today\/images\/leagues\/brazil-copa-nordeste.png",
+        "predictions": {
+            "winner": {
+                "type": "Winner",
+                "prediction": "Ceara",
+                "percentage": 45
+            },
+            "totalgoals": {
+                "type": "Total Goals",
+                "prediction": "Over 2.5",
+                "percentage": 61
+            },
+            "htft": {
+                "type": "HT\/FT",
+                "prediction": "X\/1",
+                "percentage": 33
+            },
+            "correctscore": {
+                "type": "Correct Score",
+                "prediction": "2:1",
+                "percentage": 10,
+                "cardType": [
+                    "mixed"
+                ]
+            },
+            "btts": {
+                "type": "Both Teams To Score",
+                "prediction": "Yes",
+                "percentage": 64,
+                "cardType": [
+                    "multi-50"
+                ]
+            }
+        },
+        "teamFlags": {
+            "Ceara": "https:\/\/www.mybets.today\/images\/clubes\/ceara.png",
+            "Fortaleza": "https:\/\/www.mybets.today\/images\/clubes\/fortaleza.png"
+        }
+    },
+    {
+        "matchId": 8,
+        "homeTeam": "Sport Recife",
+        "awayTeam": "Retro",
+        "matchTime": "01:30",
+        "matchDate": "2026-04-09T01:30:00+01:00",
+        "competitionName": "Brazil Copa Nordeste",
+        "leagueFlag": "https:\/\/www.mybets.today\/images\/leagues\/brazil-copa-nordeste.png",
+        "predictions": {
+            "winner": {
+                "type": "Winner",
+                "prediction": "Sport Recife",
+                "percentage": 62
+            },
+            "totalgoals": {
+                "type": "Total Goals",
+                "prediction": "Over 2.5",
+                "percentage": 60,
+                "cardType": [
+                    "over-under",
+                    "special"
+                ]
+            },
+            "htft": {
+                "type": "HT\/FT",
+                "prediction": "1\/1",
+                "percentage": 26
+            },
+            "correctscore": {
+                "type": "Correct Score",
+                "prediction": "3:1",
+                "percentage": 21
+            },
+            "btts": {
+                "type": "Both Teams To Score",
+                "prediction": "Yes",
+                "percentage": 71,
+                "cardType": [
+                    "multi-50"
+                ]
+            }
+        },
+        "teamFlags": {
+            "Sport Recife": "https:\/\/www.mybets.today\/images\/clubes\/sport-recife.png",
+            "Retro": "https:\/\/www.mybets.today\/images\/clubes\/retro.png"
+        }
+    },
+    {
+        "matchId": 284970,
+        "homeTeam": "Junior",
+        "awayTeam": "Palmeiras",
+        "matchTime": "01:30",
+        "matchDate": "2026-04-09T01:30:00+01:00",
+        "competitionName": "Copa Libertadores",
+        "leagueFlag": "https:\/\/www.mybets.today\/images\/leagues\/copa-libertadores.png",
+        "predictions": {
+            "winner": {
+                "type": "Winner",
+                "prediction": "Palmeiras",
+                "percentage": 55
+            },
+            "totalgoals": {
+                "type": "Total Goals",
+                "prediction": "Under 2.5",
+                "percentage": 64
+            },
+            "htft": {
+                "type": "HT\/FT",
+                "prediction": "2\/2",
+                "percentage": 27,
+                "cardType": [
+                    "ht-ft"
+                ]
+            },
+            "correctscore": {
+                "type": "Correct Score",
+                "prediction": "0:1",
+                "percentage": 13
+            },
+            "btts": {
+                "type": "Both Teams To Score",
+                "prediction": "No",
+                "percentage": 59,
+                "cardType": [
+                    "multi-50"
+                ]
+            }
+        },
+        "teamFlags": {
+            "Junior": "https:\/\/www.mybets.today\/images\/clubes\/junior.png",
+            "Palmeiras": "https:\/\/www.mybets.today\/images\/clubes\/palmeiras.png"
+        }
+    },
+    {
+        "matchId": 284548,
+        "homeTeam": "Cusco FC",
+        "awayTeam": "Flamengo",
+        "matchTime": "01:30",
+        "matchDate": "2026-04-09T01:30:00+01:00",
+        "competitionName": "Copa Libertadores",
+        "leagueFlag": "https:\/\/www.mybets.today\/images\/leagues\/copa-libertadores.png",
+        "predictions": {
+            "winner": {
+                "type": "Winner",
+                "prediction": "Flamengo",
+                "percentage": 63,
+                "cardType": [
+                    "daily-odds"
+                ]
+            },
+            "totalgoals": {
+                "type": "Total Goals",
+                "prediction": "Under 2.5",
+                "percentage": 60,
+                "cardType": [
+                    "daily-sure"
+                ]
+            },
+            "htft": {
+                "type": "HT\/FT",
+                "prediction": "2\/2",
+                "percentage": 27,
+                "cardType": [
+                    "multi-50"
+                ]
+            },
+            "correctscore": {
+                "type": "Correct Score",
+                "prediction": "0:1",
+                "percentage": 21
+            },
+            "btts": {
+                "type": "Both Teams To Score",
+                "prediction": "No",
+                "percentage": 66,
+                "cardType": [
+                    "multi-10"
+                ]
+            }
+        },
+        "teamFlags": {
+            "Cusco FC": "https:\/\/www.mybets.today\/images\/clubes\/cusco-fc.png",
+            "Flamengo": "https:\/\/www.mybets.today\/images\/clubes\/flamengo.png"
+        }
+    },
+    {
+        "matchId": 76,
+        "homeTeam": "Blooming",
+        "awayTeam": "River Plate",
+        "matchTime": "01:30",
+        "matchDate": "2026-04-09T01:30:00+01:00",
+        "competitionName": "Copa Sudamericana",
+        "leagueFlag": "https:\/\/www.mybets.today\/images\/leagues\/copa-sudamericana.png",
+        "predictions": {
+            "winner": {
+                "type": "Winner",
+                "prediction": "River Plate",
+                "percentage": 69,
+                "cardType": [
+                    "mixed"
+                ]
+            },
+            "totalgoals": {
+                "type": "Total Goals",
+                "prediction": "Over 2.5",
+                "percentage": 66
+            },
+            "htft": {
+                "type": "HT\/FT",
+                "prediction": "2\/2",
+                "percentage": 37
+            },
+            "correctscore": {
+                "type": "Correct Score",
+                "prediction": "1:4",
+                "percentage": 17
+            },
+            "btts": {
+                "type": "Both Teams To Score",
+                "prediction": "Yes",
+                "percentage": 64,
+                "cardType": [
+                    "special",
+                    "multi-50"
+                ]
+            }
+        },
+        "teamFlags": {
+            "Blooming": "https:\/\/www.mybets.today\/images\/clubes\/blooming.png",
+            "River Plate": "https:\/\/www.mybets.today\/images\/clubes\/river-plate.png"
+        }
+    },
+    {
+        "matchId": 28,
+        "homeTeam": "Montevideo City Torque",
+        "awayTeam": "Gremio",
+        "matchTime": "01:30",
+        "matchDate": "2026-04-09T01:30:00+01:00",
+        "competitionName": "Copa Sudamericana",
+        "leagueFlag": "https:\/\/www.mybets.today\/images\/leagues\/copa-sudamericana.png",
+        "predictions": {
+            "winner": {
+                "type": "Winner",
+                "prediction": "Gremio",
+                "percentage": 62
+            },
+            "totalgoals": {
+                "type": "Total Goals",
+                "prediction": "Over 2.5",
+                "percentage": 66,
+                "cardType": [
+                    "multi-50"
+                ]
+            },
+            "htft": {
+                "type": "HT\/FT",
+                "prediction": "X\/2",
+                "percentage": 40
+            },
+            "correctscore": {
+                "type": "Correct Score",
+                "prediction": "1:2",
+                "percentage": 11
+            },
+            "btts": {
+                "type": "Both Teams To Score",
+                "prediction": "Yes",
+                "percentage": 72
+            }
+        },
+        "teamFlags": {
+            "Montevideo City Torque": "https:\/\/www.mybets.today\/images\/clubes\/montevideo-city-torque.png",
+            "Gremio": "https:\/\/www.mybets.today\/images\/clubes\/gremio.png"
+        }
+    },
+    {
+        "matchId": 285494,
+        "homeTeam": "Tigres",
+        "awayTeam": "Seattle Sounders",
+        "matchTime": "02:00",
+        "matchDate": "2026-04-09T02:00:00+01:00",
+        "competitionName": "CONCACAF Champions Cup",
+        "leagueFlag": "https:\/\/www.mybets.today\/images\/leagues\/concacaf-champions-cup.png",
+        "predictions": {
+            "winner": {
+                "type": "Winner",
+                "prediction": "Tigres",
+                "percentage": 64,
+                "cardType": [
+                    "multi-50"
+                ]
+            },
+            "totalgoals": {
+                "type": "Total Goals",
+                "prediction": "Over 2.5",
+                "percentage": 66
+            },
+            "htft": {
+                "type": "HT\/FT",
+                "prediction": "1\/1",
+                "percentage": 31
+            },
+            "correctscore": {
+                "type": "Correct Score",
+                "prediction": "2:1",
+                "percentage": 13
+            },
+            "btts": {
+                "type": "Both Teams To Score",
+                "prediction": "Yes",
+                "percentage": 66
+            }
+        },
+        "teamFlags": {
+            "Tigres": "https:\/\/www.mybets.today\/images\/clubes\/tigres.png",
+            "Seattle Sounders": "https:\/\/www.mybets.today\/images\/clubes\/seattle-sounders.png"
+        }
+    },
+    {
+        "matchId": 284991,
+        "homeTeam": "Real Esteli",
+        "awayTeam": "Managua FC",
+        "matchTime": "02:00",
+        "matchDate": "2026-04-09T02:00:00+01:00",
+        "competitionName": "Nicaragua Clausura",
+        "leagueFlag": "https:\/\/www.mybets.today\/images\/leagues\/nicaragua-clausura.png",
+        "predictions": {
+            "winner": {
+                "type": "Winner",
+                "prediction": "Real Esteli",
+                "percentage": 63
+            },
+            "totalgoals": {
+                "type": "Total Goals",
+                "prediction": "Over 2.5",
+                "percentage": 64,
+                "cardType": [
+                    "over-under",
+                    "multi-50"
+                ]
+            },
+            "htft": {
+                "type": "HT\/FT",
+                "prediction": "1\/1",
+                "percentage": 38,
+                "cardType": [
+                    "ht-ft"
+                ]
+            },
+            "correctscore": {
+                "type": "Correct Score",
+                "prediction": "2:1",
+                "percentage": 17
+            },
+            "btts": {
+                "type": "Both Teams To Score",
+                "prediction": "Yes",
+                "percentage": 62
+            }
+        },
+        "teamFlags": {
+            "Real Esteli": "https:\/\/www.mybets.today\/images\/clubes\/real-esteli.png",
+            "Managua FC": "https:\/\/www.mybets.today\/images\/clubes\/managua-fc.png"
+        }
+    },
+    {
+        "matchId": 6,
+        "homeTeam": "CD Olimpia",
+        "awayTeam": "Victoria",
+        "matchTime": "02:30",
+        "matchDate": "2026-04-09T02:30:00+01:00",
+        "competitionName": "Honduras Liga Nacional",
+        "leagueFlag": "https:\/\/www.mybets.today\/images\/leagues\/honduras-liga-nacional.png",
+        "predictions": {
+            "winner": {
+                "type": "Winner",
+                "prediction": "CD Olimpia",
+                "percentage": 72,
+                "cardType": [
+                    "single-vip"
+                ]
+            },
+            "totalgoals": {
+                "type": "Total Goals",
+                "prediction": "Over 2.5",
+                "percentage": 70,
+                "cardType": [
+                    "over-under",
+                    "multi-50"
+                ]
+            },
+            "htft": {
+                "type": "HT\/FT",
+                "prediction": "1\/1",
+                "percentage": 25,
+                "cardType": [
+                    "ht-ft"
+                ]
+            },
+            "correctscore": {
+                "type": "Correct Score",
+                "prediction": "4:1",
+                "percentage": 14
+            },
+            "btts": {
+                "type": "Both Teams To Score",
+                "prediction": "Yes",
+                "percentage": 70
+            }
+        },
+        "teamFlags": {
+            "CD Olimpia": "https:\/\/www.mybets.today\/images\/clubes\/cd-olimpia.png",
+            "Victoria": "https:\/\/www.mybets.today\/images\/clubes\/victoria.png"
+        }
+    },
+    {
+        "matchId": 69,
+        "homeTeam": "Academia Puerto Cabello",
+        "awayTeam": "Atletico Mineiro",
+        "matchTime": "03:00",
+        "matchDate": "2026-04-09T03:00:00+01:00",
+        "competitionName": "Copa Sudamericana",
+        "leagueFlag": "https:\/\/www.mybets.today\/images\/leagues\/copa-sudamericana.png",
+        "predictions": {
+            "winner": {
+                "type": "Winner",
+                "prediction": "Atletico Mineiro",
+                "percentage": 64,
+                "cardType": [
+                    "football"
+                ]
+            },
+            "totalgoals": {
+                "type": "Total Goals",
+                "prediction": "Under 2.5",
+                "percentage": 65
+            },
+            "htft": {
+                "type": "HT\/FT",
+                "prediction": "X\/2",
+                "percentage": 39,
+                "cardType": [
+                    "multi-50"
+                ]
+            },
+            "correctscore": {
+                "type": "Correct Score",
+                "prediction": "0:1",
+                "percentage": 19
+            },
+            "btts": {
+                "type": "Both Teams To Score",
+                "prediction": "No",
+                "percentage": 69
+            }
+        },
+        "teamFlags": {
+            "Academia Puerto Cabello": "https:\/\/www.mybets.today\/images\/clubes\/academia-puerto-cabello.png",
+            "Atletico Mineiro": "https:\/\/www.mybets.today\/images\/clubes\/atletico-mineiro.png"
+        }
+    },
+    {
+        "matchId": 38,
+        "homeTeam": "Sporting Cristal",
+        "awayTeam": "Cerro Porteno",
+        "matchTime": "03:00",
+        "matchDate": "2026-04-09T03:00:00+01:00",
+        "competitionName": "Copa Libertadores",
+        "leagueFlag": "https:\/\/www.mybets.today\/images\/leagues\/copa-libertadores.png",
+        "predictions": {
+            "winner": {
+                "type": "Winner",
+                "prediction": "Sporting Cristal",
+                "percentage": 45
+            },
+            "totalgoals": {
+                "type": "Total Goals",
+                "prediction": "Under 2.5",
+                "percentage": 71
+            },
+            "htft": {
+                "type": "HT\/FT",
+                "prediction": "X\/1",
+                "percentage": 38
+            },
+            "correctscore": {
+                "type": "Correct Score",
+                "prediction": "1:0",
+                "percentage": 18
+            },
+            "btts": {
+                "type": "Both Teams To Score",
+                "prediction": "No",
+                "percentage": 60,
+                "cardType": [
+                    "daily-odds",
+                    "multi-50"
+                ]
+            }
+        },
+        "teamFlags": {
+            "Sporting Cristal": "https:\/\/www.mybets.today\/images\/clubes\/sporting-cristal.png",
+            "Cerro Porteno": "https:\/\/www.mybets.today\/images\/clubes\/cerro-porteno.png"
+        }
+    },
+    {
+        "matchId": 284956,
+        "homeTeam": "Orange County SC",
+        "awayTeam": "San Antonio",
+        "matchTime": "03:00",
+        "matchDate": "2026-04-09T03:00:00+01:00",
+        "competitionName": "USA USL Championship",
+        "leagueFlag": "https:\/\/www.mybets.today\/images\/leagues\/usa-usl-championship.png",
+        "predictions": {
+            "winner": {
+                "type": "Winner",
+                "prediction": "Orange County SC",
+                "percentage": 54
+            },
+            "totalgoals": {
+                "type": "Total Goals",
+                "prediction": "Over 2.5",
+                "percentage": 62
+            },
+            "htft": {
+                "type": "HT\/FT",
+                "prediction": "X\/1",
+                "percentage": 33,
+                "cardType": [
+                    "multi-50"
+                ]
+            },
+            "correctscore": {
+                "type": "Correct Score",
+                "prediction": "2:1",
+                "percentage": 11
+            },
+            "btts": {
+                "type": "Both Teams To Score",
+                "prediction": "Yes",
+                "percentage": 64
+            }
+        },
+        "teamFlags": {
+            "Orange County SC": "https:\/\/www.mybets.today\/images\/clubes\/orange-county-sc.png",
+            "San Antonio": "https:\/\/www.mybets.today\/images\/clubes\/san-antonio.png"
+        }
+    },
+    {
+        "matchId": 285493,
+        "homeTeam": "Toluca",
+        "awayTeam": "LA Galaxy",
+        "matchTime": "04:00",
+        "matchDate": "2026-04-09T04:00:00+01:00",
+        "competitionName": "CONCACAF Champions Cup",
+        "leagueFlag": "https:\/\/www.mybets.today\/images\/leagues\/concacaf-champions-cup.png",
+        "predictions": {
+            "winner": {
+                "type": "Winner",
+                "prediction": "Toluca",
+                "percentage": 74,
+                "cardType": [
+                    "bonus"
+                ]
+            },
+            "totalgoals": {
+                "type": "Total Goals",
+                "prediction": "Over 2.5",
+                "percentage": 61
+            },
+            "htft": {
+                "type": "HT\/FT",
+                "prediction": "1\/1",
+                "percentage": 36
+            },
+            "correctscore": {
+                "type": "Correct Score",
+                "prediction": "3:0",
+                "percentage": 16
+            },
+            "btts": {
+                "type": "Both Teams To Score",
+                "prediction": "No",
+                "percentage": 66,
+                "cardType": [
+                    "multi-50"
+                ]
+            }
+        },
+        "teamFlags": {
+            "Toluca": "https:\/\/www.mybets.today\/images\/clubes\/toluca.png",
+            "LA Galaxy": "https:\/\/www.mybets.today\/images\/clubes\/la-galaxy.png"
+        }
+    },
+    {
+        "matchId": 283554,
+        "homeTeam": "Lokomotiv 1929 Sofia",
+        "awayTeam": "Beroe",
+        "matchTime": "13:30",
+        "matchDate": "2026-04-09T13:30:00+01:00",
+        "competitionName": "Bulgaria First League",
+        "leagueFlag": "https:\/\/www.mybets.today\/images\/leagues\/bulgaria-firs-tleague.png",
+        "predictions": {
+            "winner": {
+                "type": "Winner",
+                "prediction": "Lokomotiv 1929 Sofia",
+                "percentage": 62,
+                "cardType": [
+                    "mixed",
+                    "multi-10"
+                ]
+            },
+            "totalgoals": {
+                "type": "Total Goals",
+                "prediction": "Under 2.5",
+                "percentage": 70
+            },
+            "htft": {
+                "type": "HT\/FT",
+                "prediction": "1\/1",
+                "percentage": 39
+            },
+            "correctscore": {
+                "type": "Correct Score",
+                "prediction": "1:0",
+                "percentage": 15
+            },
+            "btts": {
+                "type": "Both Teams To Score",
+                "prediction": "No",
+                "percentage": 64,
+                "cardType": [
+                    "multi-50"
+                ]
+            }
+        },
+        "teamFlags": {
+            "Lokomotiv 1929 Sofia": "https:\/\/www.mybets.today\/images\/clubes\/lokomotiv-1929-sofia.png",
+            "Beroe": "https:\/\/www.mybets.today\/images\/clubes\/beroe.png"
+        }
+    },
+    {
+        "matchId": 3,
+        "homeTeam": "Makedonija GjP",
+        "awayTeam": "Aresimi",
+        "matchTime": "14:30",
+        "matchDate": "2026-04-09T14:30:00+01:00",
+        "competitionName": "Macedonia First League",
+        "leagueFlag": "https:\/\/www.mybets.today\/images\/leagues\/macedonia-firs-tleague.png",
+        "predictions": {
+            "winner": {
+                "type": "Winner",
+                "prediction": "Makedonija GjP",
+                "percentage": 62
+            },
+            "totalgoals": {
+                "type": "Total Goals",
+                "prediction": "Over 2.5",
+                "percentage": 60
+            },
+            "htft": {
+                "type": "HT\/FT",
+                "prediction": "X\/1",
+                "percentage": 33
+            },
+            "correctscore": {
+                "type": "Correct Score",
+                "prediction": "2:1",
+                "percentage": 16
+            },
+            "btts": {
+                "type": "Both Teams To Score",
+                "prediction": "Yes",
+                "percentage": 65,
+                "cardType": [
+                    "multi-50"
+                ]
+            }
+        },
+        "teamFlags": {
+            "Makedonija GjP": "https:\/\/www.mybets.today\/images\/clubes\/makedonija-gjp.png",
+            "Aresimi": "https:\/\/www.mybets.today\/images\/clubes\/aresimi.png"
+        }
+    },
+    {
+        "matchId": 285349,
+        "homeTeam": "Chernomorets 1919 Burgas",
+        "awayTeam": "Pirin Blagoevgrad",
+        "matchTime": "15:00",
+        "matchDate": "2026-04-09T15:00:00+01:00",
+        "competitionName": "Bulgaria Second League",
+        "leagueFlag": "https:\/\/www.mybets.today\/images\/leagues\/bulgaria-second-league.png",
+        "predictions": {
+            "winner": {
+                "type": "Winner",
+                "prediction": "Chernomorets 1919 Burgas",
+                "percentage": 65,
+                "cardType": [
+                    "daily-odds"
+                ]
+            },
+            "totalgoals": {
+                "type": "Total Goals",
+                "prediction": "Over 2.5",
+                "percentage": 67
+            },
+            "htft": {
+                "type": "HT\/FT",
+                "prediction": "1\/1",
+                "percentage": 24
+            },
+            "correctscore": {
+                "type": "Correct Score",
+                "prediction": "3:1",
+                "percentage": 18
+            },
+            "btts": {
+                "type": "Both Teams To Score",
+                "prediction": "Yes",
+                "percentage": 57
+            }
+        },
+        "teamFlags": {
+            "Chernomorets 1919 Burgas": "https:\/\/www.mybets.today\/images\/clubes\/chernomorets-1919-burgas.png",
+            "Pirin Blagoevgrad": "https:\/\/www.mybets.today\/images\/clubes\/pirin-blagoevgrad.png"
+        }
+    },
+    {
+        "matchId": 6,
+        "homeTeam": "Sevlievo",
+        "awayTeam": "Spartak Pleven",
+        "matchTime": "15:00",
+        "matchDate": "2026-04-09T15:00:00+01:00",
+        "competitionName": "Bulgaria Second League",
+        "leagueFlag": "https:\/\/www.mybets.today\/images\/leagues\/bulgaria-second-league.png",
+        "predictions": {
+            "winner": {
+                "type": "Winner",
+                "prediction": "Sevlievo",
+                "percentage": 60
+            },
+            "totalgoals": {
+                "type": "Total Goals",
+                "prediction": "Over 2.5",
+                "percentage": 70
+            },
+            "htft": {
+                "type": "HT\/FT",
+                "prediction": "1\/1",
+                "percentage": 32
+            },
+            "correctscore": {
+                "type": "Correct Score",
+                "prediction": "2:1",
+                "percentage": 20
+            },
+            "btts": {
+                "type": "Both Teams To Score",
+                "prediction": "Yes",
+                "percentage": 60,
+                "cardType": [
+                    "multi-50"
+                ]
+            }
+        },
+        "teamFlags": {
+            "Sevlievo": "https:\/\/www.mybets.today\/images\/clubes\/sevlievo.png",
+            "Spartak Pleven": "https:\/\/www.mybets.today\/images\/clubes\/spartak-pleven.png"
+        }
+    },
+    {
+        "matchId": 4,
+        "homeTeam": "Boluspor",
+        "awayTeam": "Sivasspor",
+        "matchTime": "15:00",
+        "matchDate": "2026-04-09T15:00:00+01:00",
+        "competitionName": "Türkiye 1 Lig",
+        "leagueFlag": "https:\/\/www.mybets.today\/images\/leagues\/tC3BCrkiye-1-lig.png",
+        "predictions": {
+            "winner": {
+                "type": "Winner",
+                "prediction": "Boluspor",
+                "percentage": 58,
+                "cardType": [
+                    "multi-50"
+                ]
+            },
+            "totalgoals": {
+                "type": "Total Goals",
+                "prediction": "Over 2.5",
+                "percentage": 67
+            },
+            "htft": {
+                "type": "HT\/FT",
+                "prediction": "X\/1",
+                "percentage": 36
+            },
+            "correctscore": {
+                "type": "Correct Score",
+                "prediction": "3:1",
+                "percentage": 10
+            },
+            "btts": {
+                "type": "Both Teams To Score",
+                "prediction": "Yes",
+                "percentage": 67,
+                "cardType": [
+                    "multi-10"
+                ]
+            }
+        },
+        "teamFlags": {
+            "Boluspor": "https:\/\/www.mybets.today\/images\/clubes\/boluspor.png",
+            "Sivasspor": "https:\/\/www.mybets.today\/images\/clubes\/sivasspor.png"
+        }
+    },
+    {
+        "matchId": 285353,
+        "homeTeam": "FC Isloch Minsk R.",
+        "awayTeam": "Dinamo Brest",
+        "matchTime": "16:00",
+        "matchDate": "2026-04-09T16:00:00+01:00",
+        "competitionName": "Belarus Premier League",
+        "leagueFlag": "https:\/\/www.mybets.today\/images\/leagues\/belarus-premier-league.png",
+        "predictions": {
+            "winner": {
+                "type": "Winner",
+                "prediction": "FC Isloch Minsk R.",
+                "percentage": 44,
+                "cardType": [
+                    "football"
+                ]
+            },
+            "totalgoals": {
+                "type": "Total Goals",
+                "prediction": "Over 2.5",
+                "percentage": 60
+            },
+            "htft": {
+                "type": "HT\/FT",
+                "prediction": "X\/1",
+                "percentage": 38,
+                "cardType": [
+                    "mixed"
+                ]
+            },
+            "correctscore": {
+                "type": "Correct Score",
+                "prediction": "2:1",
+                "percentage": 19
+            },
+            "btts": {
+                "type": "Both Teams To Score",
+                "prediction": "Yes",
+                "percentage": 62,
+                "cardType": [
+                    "special"
+                ]
+            }
+        },
+        "teamFlags": {
+            "FC Isloch Minsk R.": "https:\/\/www.mybets.today\/images\/clubes\/fc-isloch-minsk-r..png",
+            "Dinamo Brest": "https:\/\/www.mybets.today\/images\/clubes\/dinamo-brest.png"
+        }
+    },
+    {
+        "matchId": 283555,
+        "homeTeam": "Ludogorets Razgrad",
+        "awayTeam": "Cherno More Varna",
+        "matchTime": "16:00",
+        "matchDate": "2026-04-09T16:00:00+01:00",
+        "competitionName": "Bulgaria First League",
+        "leagueFlag": "https:\/\/www.mybets.today\/images\/leagues\/bulgaria-firs-tleague.png",
+        "predictions": {
+            "winner": {
+                "type": "Winner",
+                "prediction": "Ludogorets Razgrad",
+                "percentage": 71
+            },
+            "totalgoals": {
+                "type": "Total Goals",
+                "prediction": "Under 2.5",
+                "percentage": 67
+            },
+            "htft": {
+                "type": "HT\/FT",
+                "prediction": "1\/1",
+                "percentage": 33,
+                "cardType": [
+                    "multi-50"
+                ]
+            },
+            "correctscore": {
+                "type": "Correct Score",
+                "prediction": "1:0",
+                "percentage": 12
+            },
+            "btts": {
+                "type": "Both Teams To Score",
+                "prediction": "No",
+                "percentage": 69
+            }
+        },
+        "teamFlags": {
+            "Ludogorets Razgrad": "https:\/\/www.mybets.today\/images\/clubes\/ludogorets-razgrad.png",
+            "Cherno More Varna": "https:\/\/www.mybets.today\/images\/clubes\/cherno-more-varna.png"
+        }
+    },
+    {
+        "matchId": 284957,
+        "homeTeam": "El Geish",
+        "awayTeam": "National Bank of Egypt",
+        "matchTime": "16:00",
+        "matchDate": "2026-04-09T16:00:00+01:00",
+        "competitionName": "Egypt Premier League",
+        "leagueFlag": "https:\/\/www.mybets.today\/images\/leagues\/egyp-tpremier-league.png",
+        "predictions": {
+            "winner": {
+                "type": "Winner",
+                "prediction": "Draw",
+                "percentage": 49,
+                "cardType": [
+                    "special"
+                ]
+            },
+            "totalgoals": {
+                "type": "Total Goals",
+                "prediction": "Over 2.5",
+                "percentage": 67
+            },
+            "htft": {
+                "type": "HT\/FT",
+                "prediction": "X\/X",
+                "percentage": 33,
+                "cardType": [
+                    "multi-50"
+                ]
+            },
+            "correctscore": {
+                "type": "Correct Score",
+                "prediction": "2:2",
+                "percentage": 21
+            },
+            "btts": {
+                "type": "Both Teams To Score",
+                "prediction": "Yes",
+                "percentage": 70
+            }
+        },
+        "teamFlags": {
+            "El Geish": "https:\/\/www.mybets.today\/images\/clubes\/el-geish.png",
+            "National Bank of Egypt": "https:\/\/www.mybets.today\/images\/clubes\/national-bank-of-egypt.png"
+        }
+    },
+    {
+        "matchId": 284958,
+        "homeTeam": "Kahraba Ismailia",
+        "awayTeam": "Al Ittihad",
+        "matchTime": "16:00",
+        "matchDate": "2026-04-09T16:00:00+01:00",
+        "competitionName": "Egypt Premier League",
+        "leagueFlag": "https:\/\/www.mybets.today\/images\/leagues\/egyp-tpremier-league.png",
+        "predictions": {
+            "winner": {
+                "type": "Winner",
+                "prediction": "Draw",
+                "percentage": 49,
+                "cardType": [
+                    "mixed"
+                ]
+            },
+            "totalgoals": {
+                "type": "Total Goals",
+                "prediction": "Over 2.5",
+                "percentage": 60
+            },
+            "htft": {
+                "type": "HT\/FT",
+                "prediction": "X\/X",
+                "percentage": 27
+            },
+            "correctscore": {
+                "type": "Correct Score",
+                "prediction": "2:2",
+                "percentage": 15
+            },
+            "btts": {
+                "type": "Both Teams To Score",
+                "prediction": "Yes",
+                "percentage": 61,
+                "cardType": [
+                    "multi-50"
+                ]
+            }
+        },
+        "teamFlags": {
+            "Kahraba Ismailia": "https:\/\/www.mybets.today\/images\/clubes\/kahraba-ismailia.png",
+            "Al Ittihad": "https:\/\/www.mybets.today\/images\/clubes\/al-ittihad.png"
+        }
+    },
+    {
+        "matchId": 284987,
+        "homeTeam": "Grobiņa",
+        "awayTeam": "Super Nova",
+        "matchTime": "16:00",
+        "matchDate": "2026-04-09T16:00:00+01:00",
+        "competitionName": "Latvia Virsliga",
+        "leagueFlag": "https:\/\/www.mybets.today\/images\/leagues\/latvia-virsliga.png",
+        "predictions": {
+            "winner": {
+                "type": "Winner",
+                "prediction": "Grobiņa",
+                "percentage": 52
+            },
+            "totalgoals": {
+                "type": "Total Goals",
+                "prediction": "Over 2.5",
+                "percentage": 71
+            },
+            "htft": {
+                "type": "HT\/FT",
+                "prediction": "X\/1",
+                "percentage": 40,
+                "cardType": [
+                    "mixed"
+                ]
+            },
+            "correctscore": {
+                "type": "Correct Score",
+                "prediction": "2:1",
+                "percentage": 12
+            },
+            "btts": {
+                "type": "Both Teams To Score",
+                "prediction": "Yes",
+                "percentage": 63,
+                "cardType": [
+                    "multi-50"
+                ]
+            }
+        },
+        "teamFlags": {
+            "Grobiņa": "https:\/\/www.mybets.today\/images\/clubes\/grobiņa.png",
+            "Super Nova": "https:\/\/www.mybets.today\/images\/clubes\/super-nova.png"
+        }
+    },
+    {
+        "matchId": 8,
+        "homeTeam": "Novi Pazar",
+        "awayTeam": "FK Partizan",
+        "matchTime": "16:00",
+        "matchDate": "2026-04-09T16:00:00+01:00",
+        "competitionName": "Serbia Super Liga",
+        "leagueFlag": "https:\/\/www.mybets.today\/images\/leagues\/serbia-super-liga.png",
+        "predictions": {
+            "winner": {
+                "type": "Winner",
+                "prediction": "FK Partizan",
+                "percentage": 63
+            },
+            "totalgoals": {
+                "type": "Total Goals",
+                "prediction": "Over 2.5",
+                "percentage": 65
+            },
+            "htft": {
+                "type": "HT\/FT",
+                "prediction": "X\/2",
+                "percentage": 33,
+                "cardType": [
+                    "multi-50"
+                ]
+            },
+            "correctscore": {
+                "type": "Correct Score",
+                "prediction": "1:2",
+                "percentage": 20
+            },
+            "btts": {
+                "type": "Both Teams To Score",
+                "prediction": "Yes",
+                "percentage": 60
+            }
+        },
+        "teamFlags": {
+            "Novi Pazar": "https:\/\/www.mybets.today\/images\/clubes\/novi-pazar.png",
+            "FK Partizan": "https:\/\/www.mybets.today\/images\/clubes\/fk-partizan.png"
+        }
+    },
+    {
+        "matchId": 285352,
+        "homeTeam": "Tallinna Kalev",
+        "awayTeam": "Elva",
+        "matchTime": "17:00",
+        "matchDate": "2026-04-09T17:00:00+01:00",
+        "competitionName": "Estonia Esiliiga A",
+        "leagueFlag": "https:\/\/www.mybets.today\/images\/leagues\/estonia-esiliiga-a.png",
+        "predictions": {
+            "winner": {
+                "type": "Winner",
+                "prediction": "Elva",
+                "percentage": 63,
+                "cardType": [
+                    "football"
+                ]
+            },
+            "totalgoals": {
+                "type": "Total Goals",
+                "prediction": "Over 2.5",
+                "percentage": 65
+            },
+            "htft": {
+                "type": "HT\/FT",
+                "prediction": "X\/2",
+                "percentage": 27
+            },
+            "correctscore": {
+                "type": "Correct Score",
+                "prediction": "2:4",
+                "percentage": 15
+            },
+            "btts": {
+                "type": "Both Teams To Score",
+                "prediction": "Yes",
+                "percentage": 69,
+                "cardType": [
+                    "multi-50"
+                ]
+            }
+        },
+        "teamFlags": {
+            "Tallinna Kalev": "https:\/\/www.mybets.today\/images\/clubes\/tallinna-kalev.png",
+            "Elva": "https:\/\/www.mybets.today\/images\/clubes\/elva.png"
+        }
+    },
+    {
+        "matchId": 284988,
+        "homeTeam": "Riga",
+        "awayTeam": "Tukums",
+        "matchTime": "17:00",
+        "matchDate": "2026-04-09T17:00:00+01:00",
+        "competitionName": "Latvia Virsliga",
+        "leagueFlag": "https:\/\/www.mybets.today\/images\/leagues\/latvia-virsliga.png",
+        "predictions": {
+            "winner": {
+                "type": "Winner",
+                "prediction": "Riga",
+                "percentage": 73
+            },
+            "totalgoals": {
+                "type": "Total Goals",
+                "prediction": "Over 2.5",
+                "percentage": 63
+            },
+            "htft": {
+                "type": "HT\/FT",
+                "prediction": "1\/1",
+                "percentage": 41
+            },
+            "correctscore": {
+                "type": "Correct Score",
+                "prediction": "4:1",
+                "percentage": 11
+            },
+            "btts": {
+                "type": "Both Teams To Score",
+                "prediction": "Yes",
+                "percentage": 60,
+                "cardType": [
+                    "multi-50"
+                ]
+            }
+        },
+        "teamFlags": {
+            "Riga": "https:\/\/www.mybets.today\/images\/clubes\/riga.png",
+            "Tukums": "https:\/\/www.mybets.today\/images\/clubes\/tukums.png"
+        }
+    },
+    {
+        "matchId": 7,
+        "homeTeam": "Damac FC",
+        "awayTeam": "Al Qadisiya Al Khubar",
+        "matchTime": "17:00",
+        "matchDate": "2026-04-09T17:00:00+01:00",
+        "competitionName": "Saudi Arabia Pro League",
+        "leagueFlag": "https:\/\/www.mybets.today\/images\/leagues\/saudi-arabia-pro-league.png",
+        "predictions": {
+            "winner": {
+                "type": "Winner",
+                "prediction": "Al Qadisiya Al Khubar",
+                "percentage": 75,
+                "cardType": [
+                    "special"
+                ]
+            },
+            "totalgoals": {
+                "type": "Total Goals",
+                "prediction": "Over 2.5",
+                "percentage": 70
+            },
+            "htft": {
+                "type": "HT\/FT",
+                "prediction": "2\/2",
+                "percentage": 34
+            },
+            "correctscore": {
+                "type": "Correct Score",
+                "prediction": "1:3",
+                "percentage": 20
+            },
+            "btts": {
+                "type": "Both Teams To Score",
+                "prediction": "Yes",
+                "percentage": 65,
+                "cardType": [
+                    "multi-50"
+                ]
+            }
+        },
+        "teamFlags": {
+            "Damac FC": "https:\/\/www.mybets.today\/images\/clubes\/damac-fc.png",
+            "Al Qadisiya Al Khubar": "https:\/\/www.mybets.today\/images\/clubes\/al-qadisiya-al-khubar.png"
+        }
+    },
+    {
+        "matchId": 8,
+        "homeTeam": "Al Orubah",
+        "awayTeam": "Al-Faisaly FC",
+        "matchTime": "17:20",
+        "matchDate": "2026-04-09T17:20:00+01:00",
+        "competitionName": "Saudi Arabia Division 1",
+        "leagueFlag": "https:\/\/www.mybets.today\/images\/leagues\/saudi-arabia-division-1.png",
+        "predictions": {
+            "winner": {
+                "type": "Winner",
+                "prediction": "Al-Faisaly FC",
+                "percentage": 65,
+                "cardType": [
+                    "football"
+                ]
+            },
+            "totalgoals": {
+                "type": "Total Goals",
+                "prediction": "Over 2.5",
+                "percentage": 66
+            },
+            "htft": {
+                "type": "HT\/FT",
+                "prediction": "X\/2",
+                "percentage": 29,
+                "cardType": [
+                    "multi-50",
+                    "mixed"
+                ]
+            },
+            "correctscore": {
+                "type": "Correct Score",
+                "prediction": "1:3",
+                "percentage": 11
+            },
+            "btts": {
+                "type": "Both Teams To Score",
+                "prediction": "Yes",
+                "percentage": 63
+            }
+        },
+        "teamFlags": {
+            "Al Orubah": "https:\/\/www.mybets.today\/images\/clubes\/al-orubah.png",
+            "Al-Faisaly FC": "https:\/\/www.mybets.today\/images\/clubes\/al-faisaly-fc.png"
+        }
+    },
+    {
+        "matchId": 9,
+        "homeTeam": "Al Ula",
+        "awayTeam": "Abha",
+        "matchTime": "17:20",
+        "matchDate": "2026-04-09T17:20:00+01:00",
+        "competitionName": "Saudi Arabia Division 1",
+        "leagueFlag": "https:\/\/www.mybets.today\/images\/leagues\/saudi-arabia-division-1.png",
+        "predictions": {
+            "winner": {
+                "type": "Winner",
+                "prediction": "Al Ula",
+                "percentage": 61
+            },
+            "totalgoals": {
+                "type": "Total Goals",
+                "prediction": "Over 2.5",
+                "percentage": 65,
+                "cardType": [
+                    "daily-sure",
+                    "multi-50"
+                ]
+            },
+            "htft": {
+                "type": "HT\/FT",
+                "prediction": "1\/1",
+                "percentage": 28
+            },
+            "correctscore": {
+                "type": "Correct Score",
+                "prediction": "3:1",
+                "percentage": 17
+            },
+            "btts": {
+                "type": "Both Teams To Score",
+                "prediction": "Yes",
+                "percentage": 66
+            }
+        },
+        "teamFlags": {
+            "Al Ula": "https:\/\/www.mybets.today\/images\/clubes\/al-ula.png",
+            "Abha": "https:\/\/www.mybets.today\/images\/clubes\/abha.png"
+        }
+    },
+    {
+        "matchId": 7,
+        "homeTeam": "Fratria",
+        "awayTeam": "Lokomotiv G. Oryahovitsa",
+        "matchTime": "17:30",
+        "matchDate": "2026-04-09T17:30:00+01:00",
+        "competitionName": "Bulgaria Second League",
+        "leagueFlag": "https:\/\/www.mybets.today\/images\/leagues\/bulgaria-second-league.png",
+        "predictions": {
+            "winner": {
+                "type": "Winner",
+                "prediction": "Fratria",
+                "percentage": 74
+            },
+            "totalgoals": {
+                "type": "Total Goals",
+                "prediction": "Over 2.5",
+                "percentage": 63,
+                "cardType": [
+                    "multi-10"
+                ]
+            },
+            "htft": {
+                "type": "HT\/FT",
+                "prediction": "1\/1",
+                "percentage": 37,
+                "cardType": [
+                    "multi-50"
+                ]
+            },
+            "correctscore": {
+                "type": "Correct Score",
+                "prediction": "3:1",
+                "percentage": 19
+            },
+            "btts": {
+                "type": "Both Teams To Score",
+                "prediction": "Yes",
+                "percentage": 61
+            }
+        },
+        "teamFlags": {
+            "Fratria": "https:\/\/www.mybets.today\/images\/clubes\/fratria.png",
+            "Lokomotiv G. Oryahovitsa": "https:\/\/www.mybets.today\/images\/clubes\/lokomotiv-g.-oryahovitsa.png"
+        }
+    },
+    {
+        "matchId": 2,
+        "homeTeam": "Raków Częstochowa",
+        "awayTeam": "GKS Katowice",
+        "matchTime": "17:30",
+        "matchDate": "2026-04-09T17:30:00+01:00",
+        "competitionName": "Poland Cup",
+        "leagueFlag": "https:\/\/www.mybets.today\/images\/leagues\/poland-cup.png",
+        "predictions": {
+            "winner": {
+                "type": "Winner",
+                "prediction": "Raków Częstochowa",
+                "percentage": 56
+            },
+            "totalgoals": {
+                "type": "Total Goals",
+                "prediction": "Over 2.5",
+                "percentage": 61
+            },
+            "htft": {
+                "type": "HT\/FT",
+                "prediction": "X\/1",
+                "percentage": 34
+            },
+            "correctscore": {
+                "type": "Correct Score",
+                "prediction": "2:1",
+                "percentage": 10
+            },
+            "btts": {
+                "type": "Both Teams To Score",
+                "prediction": "Yes",
+                "percentage": 59
+            }
+        },
+        "teamFlags": {
+            "Raków Częstochowa": "https:\/\/www.mybets.today\/images\/clubes\/raków-częstochowa.png",
+            "GKS Katowice": "https:\/\/www.mybets.today\/images\/clubes\/gks-katowice.png"
+        }
+    },
+    {
+        "matchId": 5,
+        "homeTeam": "Rayo Vallecano",
+        "awayTeam": "AEK Athens",
+        "matchTime": "17:45",
+        "matchDate": "2026-04-09T17:45:00+01:00",
+        "competitionName": "UEFA Conference League",
+        "leagueFlag": "https:\/\/www.mybets.today\/images\/leagues\/uefa-conference-league.png",
+        "predictions": {
+            "winner": {
+                "type": "Winner",
+                "prediction": "Rayo Vallecano",
+                "percentage": 64
+            },
+            "totalgoals": {
+                "type": "Total Goals",
+                "prediction": "Over 2.5",
+                "percentage": 64
+            },
+            "htft": {
+                "type": "HT\/FT",
+                "prediction": "X\/1",
+                "percentage": 37,
+                "cardType": [
+                    "multi-50"
+                ]
+            },
+            "correctscore": {
+                "type": "Correct Score",
+                "prediction": "2:1",
+                "percentage": 14
+            },
+            "btts": {
+                "type": "Both Teams To Score",
+                "prediction": "Yes",
+                "percentage": 64
+            }
+        },
+        "teamFlags": {
+            "Rayo Vallecano": "https:\/\/www.mybets.today\/images\/clubes\/rayo-vallecano.png",
+            "AEK Athens": "https:\/\/www.mybets.today\/images\/clubes\/aek-athens.png"
+        }
+    },
+    {
+        "matchId": 6,
+        "homeTeam": "Istanbulspor",
+        "awayTeam": "Erzurumspor FK",
+        "matchTime": "18:00",
+        "matchDate": "2026-04-09T18:00:00+01:00",
+        "competitionName": "Türkiye 1 Lig",
+        "leagueFlag": "https:\/\/www.mybets.today\/images\/leagues\/tC3BCrkiye-1-lig.png",
+        "predictions": {
+            "winner": {
+                "type": "Winner",
+                "prediction": "Erzurumspor FK",
+                "percentage": 60,
+                "cardType": [
+                    "multi-50"
+                ]
+            },
+            "totalgoals": {
+                "type": "Total Goals",
+                "prediction": "Over 2.5",
+                "percentage": 69
+            },
+            "htft": {
+                "type": "HT\/FT",
+                "prediction": "2\/2",
+                "percentage": 33
+            },
+            "correctscore": {
+                "type": "Correct Score",
+                "prediction": "1:2",
+                "percentage": 13
+            },
+            "btts": {
+                "type": "Both Teams To Score",
+                "prediction": "Yes",
+                "percentage": 71
+            }
+        },
+        "teamFlags": {
+            "Istanbulspor": "https:\/\/www.mybets.today\/images\/clubes\/istanbulspor.png",
+            "Erzurumspor FK": "https:\/\/www.mybets.today\/images\/clubes\/erzurumspor-fk.png"
+        }
+    },
+    {
+        "matchId": 6,
+        "homeTeam": "FK Crvena Zvezda",
+        "awayTeam": "FK Spartak Zdrepceva KRV",
+        "matchTime": "18:00",
+        "matchDate": "2026-04-09T18:00:00+01:00",
+        "competitionName": "Serbia Super Liga",
+        "leagueFlag": "https:\/\/www.mybets.today\/images\/leagues\/serbia-super-liga.png",
+        "predictions": {
+            "winner": {
+                "type": "Winner",
+                "prediction": "FK Crvena Zvezda",
+                "percentage": 79
+            },
+            "totalgoals": {
+                "type": "Total Goals",
+                "prediction": "Over 2.5",
+                "percentage": 71,
+                "cardType": [
+                    "daily-odds",
+                    "special"
+                ]
+            },
+            "htft": {
+                "type": "HT\/FT",
+                "prediction": "1\/1",
+                "percentage": 26
+            },
+            "correctscore": {
+                "type": "Correct Score",
+                "prediction": "4:1",
+                "percentage": 10
+            },
+            "btts": {
+                "type": "Both Teams To Score",
+                "prediction": "Yes",
+                "percentage": 65
+            }
+        },
+        "teamFlags": {
+            "FK Crvena Zvezda": "https:\/\/www.mybets.today\/images\/clubes\/fk-crvena-zvezda.png",
+            "FK Spartak Zdrepceva KRV": "https:\/\/www.mybets.today\/images\/clubes\/fk-spartak-zdrepceva-krv.png"
+        }
+    },
+    {
+        "matchId": 284955,
+        "homeTeam": "OFK Beograd",
+        "awayTeam": "Radnik Surdulica",
+        "matchTime": "18:00",
+        "matchDate": "2026-04-09T18:00:00+01:00",
+        "competitionName": "Serbia Super Liga",
+        "leagueFlag": "https:\/\/www.mybets.today\/images\/leagues\/serbia-super-liga.png",
+        "predictions": {
+            "winner": {
+                "type": "Winner",
+                "prediction": "OFK Beograd",
+                "percentage": 61,
+                "cardType": [
+                    "daily-odds"
+                ]
+            },
+            "totalgoals": {
+                "type": "Total Goals",
+                "prediction": "Over 2.5",
+                "percentage": 62,
+                "cardType": [
+                    "fixed",
+                    "multi-10"
+                ]
+            },
+            "htft": {
+                "type": "HT\/FT",
+                "prediction": "X\/1",
+                "percentage": 29
+            },
+            "correctscore": {
+                "type": "Correct Score",
+                "prediction": "2:1",
+                "percentage": 20
+            },
+            "btts": {
+                "type": "Both Teams To Score",
+                "prediction": "Yes",
+                "percentage": 72
+            }
+        },
+        "teamFlags": {
+            "OFK Beograd": "https:\/\/www.mybets.today\/images\/clubes\/ofk-beograd.png",
+            "Radnik Surdulica": "https:\/\/www.mybets.today\/images\/clubes\/radnik-surdulica.png"
+        }
+    },
+    {
+        "matchId": 5,
+        "homeTeam": "Cukaricki",
+        "awayTeam": "Radnicki 1923",
+        "matchTime": "18:00",
+        "matchDate": "2026-04-09T18:00:00+01:00",
+        "competitionName": "Serbia Super Liga",
+        "leagueFlag": "https:\/\/www.mybets.today\/images\/leagues\/serbia-super-liga.png",
+        "predictions": {
+            "winner": {
+                "type": "Winner",
+                "prediction": "Cukaricki",
+                "percentage": 56
+            },
+            "totalgoals": {
+                "type": "Total Goals",
+                "prediction": "Over 2.5",
+                "percentage": 60,
+                "cardType": [
+                    "daily-sure",
+                    "daily-odds",
+                    "multi-10"
+                ]
+            },
+            "htft": {
+                "type": "HT\/FT",
+                "prediction": "X\/1",
+                "percentage": 26
+            },
+            "correctscore": {
+                "type": "Correct Score",
+                "prediction": "2:1",
+                "percentage": 18
+            },
+            "btts": {
+                "type": "Both Teams To Score",
+                "prediction": "Yes",
+                "percentage": 70
+            }
+        },
+        "teamFlags": {
+            "Cukaricki": "https:\/\/www.mybets.today\/images\/clubes\/cukaricki.png",
+            "Radnicki 1923": "https:\/\/www.mybets.today\/images\/clubes\/radnicki-1923.png"
+        }
+    },
+    {
+        "matchId": 8,
+        "homeTeam": "Caykur Rizespor",
+        "awayTeam": "Samsunspor",
+        "matchTime": "18:00",
+        "matchDate": "2026-04-09T18:00:00+01:00",
+        "competitionName": "Türkiye Super Lig",
+        "leagueFlag": "https:\/\/www.mybets.today\/images\/leagues\/tC3BCrkiye-super-lig.png",
+        "predictions": {
+            "winner": {
+                "type": "Winner",
+                "prediction": "Caykur Rizespor",
+                "percentage": 68,
+                "cardType": [
+                    "multi-50"
+                ]
+            },
+            "totalgoals": {
+                "type": "Total Goals",
+                "prediction": "Over 2.5",
+                "percentage": 62
+            },
+            "htft": {
+                "type": "HT\/FT",
+                "prediction": "X\/1",
+                "percentage": 35
+            },
+            "correctscore": {
+                "type": "Correct Score",
+                "prediction": "2:1",
+                "percentage": 19
+            },
+            "btts": {
+                "type": "Both Teams To Score",
+                "prediction": "Yes",
+                "percentage": 65
+            }
+        },
+        "teamFlags": {
+            "Caykur Rizespor": "https:\/\/www.mybets.today\/images\/clubes\/caykur-rizespor.png",
+            "Samsunspor": "https:\/\/www.mybets.today\/images\/clubes\/samsunspor.png"
+        }
+    },
+    {
+        "matchId": 5,
+        "homeTeam": "Esenler Erokspor",
+        "awayTeam": "Amed SK",
+        "matchTime": "18:00",
+        "matchDate": "2026-04-09T18:00:00+01:00",
+        "competitionName": "Türkiye 1 Lig",
+        "leagueFlag": "https:\/\/www.mybets.today\/images\/leagues\/tC3BCrkiye-1-lig.png",
+        "predictions": {
+            "winner": {
+                "type": "Winner",
+                "prediction": "Esenler Erokspor",
+                "percentage": 57,
+                "cardType": [
+                    "mixed"
+                ]
+            },
+            "totalgoals": {
+                "type": "Total Goals",
+                "prediction": "Over 2.5",
+                "percentage": 62,
+                "cardType": [
+                    "over-under"
+                ]
+            },
+            "htft": {
+                "type": "HT\/FT",
+                "prediction": "X\/1",
+                "percentage": 29
+            },
+            "correctscore": {
+                "type": "Correct Score",
+                "prediction": "3:1",
+                "percentage": 15,
+                "cardType": [
+                    "correct-score"
+                ]
+            },
+            "btts": {
+                "type": "Both Teams To Score",
+                "prediction": "Yes",
+                "percentage": 61
+            }
+        },
+        "teamFlags": {
+            "Esenler Erokspor": "https:\/\/www.mybets.today\/images\/clubes\/esenler-erokspor.png",
+            "Amed SK": "https:\/\/www.mybets.today\/images\/clubes\/amed-sk.png"
+        }
+    },
+    {
+        "matchId": 283556,
+        "homeTeam": "Levski Sofia",
+        "awayTeam": "Arda Kardzhali",
+        "matchTime": "18:30",
+        "matchDate": "2026-04-09T18:30:00+01:00",
+        "competitionName": "Bulgaria First League",
+        "leagueFlag": "https:\/\/www.mybets.today\/images\/leagues\/bulgaria-firs-tleague.png",
+        "predictions": {
+            "winner": {
+                "type": "Winner",
+                "prediction": "Levski Sofia",
+                "percentage": 71,
+                "cardType": [
+                    "single"
+                ]
+            },
+            "totalgoals": {
+                "type": "Total Goals",
+                "prediction": "Under 2.5",
+                "percentage": 65
+            },
+            "htft": {
+                "type": "HT\/FT",
+                "prediction": "1\/1",
+                "percentage": 28,
+                "cardType": [
+                    "multi-50"
+                ]
+            },
+            "correctscore": {
+                "type": "Correct Score",
+                "prediction": "1:0",
+                "percentage": 14
+            },
+            "btts": {
+                "type": "Both Teams To Score",
+                "prediction": "No",
+                "percentage": 70
+            }
+        },
+        "teamFlags": {
+            "Levski Sofia": "https:\/\/www.mybets.today\/images\/clubes\/levski-sofia.png",
+            "Arda Kardzhali": "https:\/\/www.mybets.today\/images\/clubes\/arda-kardzhali.png"
+        }
+    },
+    {
+        "matchId": 284997,
+        "homeTeam": "Al-Adalah",
+        "awayTeam": "Al Baten",
+        "matchTime": "18:40",
+        "matchDate": "2026-04-09T18:40:00+01:00",
+        "competitionName": "Saudi Arabia Division 1",
+        "leagueFlag": "https:\/\/www.mybets.today\/images\/leagues\/saudi-arabia-division-1.png",
+        "predictions": {
+            "winner": {
+                "type": "Winner",
+                "prediction": "Al-Adalah",
+                "percentage": 47,
+                "cardType": [
+                    "multi-50"
+                ]
+            },
+            "totalgoals": {
+                "type": "Total Goals",
+                "prediction": "Over 2.5",
+                "percentage": 65
+            },
+            "htft": {
+                "type": "HT\/FT",
+                "prediction": "X\/1",
+                "percentage": 30
+            },
+            "correctscore": {
+                "type": "Correct Score",
+                "prediction": "4:2",
+                "percentage": 12
+            },
+            "btts": {
+                "type": "Both Teams To Score",
+                "prediction": "Yes",
+                "percentage": 63
+            }
+        },
+        "teamFlags": {
+            "Al-Adalah": "https:\/\/www.mybets.today\/images\/clubes\/al-adalah.png",
+            "Al Baten": "https:\/\/www.mybets.today\/images\/clubes\/al-baten.png"
+        }
+    },
+    {
+        "matchId": 4,
+        "homeTeam": "El Mokawloon",
+        "awayTeam": "Ismaily SC",
+        "matchTime": "19:00",
+        "matchDate": "2026-04-09T19:00:00+01:00",
+        "competitionName": "Egypt Premier League",
+        "leagueFlag": "https:\/\/www.mybets.today\/images\/leagues\/egyp-tpremier-league.png",
+        "predictions": {
+            "winner": {
+                "type": "Winner",
+                "prediction": "El Mokawloon",
+                "percentage": 65
+            },
+            "totalgoals": {
+                "type": "Total Goals",
+                "prediction": "Over 2.5",
+                "percentage": 65
+            },
+            "htft": {
+                "type": "HT\/FT",
+                "prediction": "X\/1",
+                "percentage": 36
+            },
+            "correctscore": {
+                "type": "Correct Score",
+                "prediction": "2:1",
+                "percentage": 13
+            },
+            "btts": {
+                "type": "Both Teams To Score",
+                "prediction": "Yes",
+                "percentage": 63
+            }
+        },
+        "teamFlags": {
+            "El Mokawloon": "https:\/\/www.mybets.today\/images\/clubes\/el-mokawloon.png",
+            "Ismaily SC": "https:\/\/www.mybets.today\/images\/clubes\/ismaily-sc.png"
+        }
+    },
+    {
+        "matchId": 5,
+        "homeTeam": "Petrojet",
+        "awayTeam": "Masr",
+        "matchTime": "19:00",
+        "matchDate": "2026-04-09T19:00:00+01:00",
+        "competitionName": "Egypt Premier League",
+        "leagueFlag": "https:\/\/www.mybets.today\/images\/leagues\/egyp-tpremier-league.png",
+        "predictions": {
+            "winner": {
+                "type": "Winner",
+                "prediction": "Draw",
+                "percentage": 51,
+                "cardType": [
+                    "multi-10"
+                ]
+            },
+            "totalgoals": {
+                "type": "Total Goals",
+                "prediction": "Over 2.5",
+                "percentage": 70,
+                "cardType": [
+                    "multi-50"
+                ]
+            },
+            "htft": {
+                "type": "HT\/FT",
+                "prediction": "X\/X",
+                "percentage": 22
+            },
+            "correctscore": {
+                "type": "Correct Score",
+                "prediction": "2:2",
+                "percentage": 19
+            },
+            "btts": {
+                "type": "Both Teams To Score",
+                "prediction": "Yes",
+                "percentage": 73
+            }
+        },
+        "teamFlags": {
+            "Petrojet": "https:\/\/www.mybets.today\/images\/clubes\/petrojet.png",
+            "Masr": "https:\/\/www.mybets.today\/images\/clubes\/masr.png"
+        }
+    },
+    {
+        "matchId": 9,
+        "homeTeam": "Al Ittifaq Dammam",
+        "awayTeam": "Al Riyadh",
+        "matchTime": "19:00",
+        "matchDate": "2026-04-09T19:00:00+01:00",
+        "competitionName": "Saudi Arabia Pro League",
+        "leagueFlag": "https:\/\/www.mybets.today\/images\/leagues\/saudi-arabia-pro-league.png",
+        "predictions": {
+            "winner": {
+                "type": "Winner",
+                "prediction": "Al Ittifaq Dammam",
+                "percentage": 55,
+                "cardType": [
+                    "multi-50"
+                ]
+            },
+            "totalgoals": {
+                "type": "Total Goals",
+                "prediction": "Over 2.5",
+                "percentage": 69
+            },
+            "htft": {
+                "type": "HT\/FT",
+                "prediction": "X\/1",
+                "percentage": 22
+            },
+            "correctscore": {
+                "type": "Correct Score",
+                "prediction": "3:1",
+                "percentage": 18
+            },
+            "btts": {
+                "type": "Both Teams To Score",
+                "prediction": "Yes",
+                "percentage": 62
+            }
+        },
+        "teamFlags": {
+            "Al Ittifaq Dammam": "https:\/\/www.mybets.today\/images\/clubes\/al-ittifaq-dammam.png",
+            "Al Riyadh": "https:\/\/www.mybets.today\/images\/clubes\/al-riyadh.png"
+        }
+    },
+    {
+        "matchId": 284953,
+        "homeTeam": "MC Alger",
+        "awayTeam": "El Bayadh",
+        "matchTime": "20:00",
+        "matchDate": "2026-04-09T20:00:00+01:00",
+        "competitionName": "Algeria Ligue 1",
+        "leagueFlag": "https:\/\/www.mybets.today\/images\/leagues\/algeria-ligue-1.png",
+        "predictions": {
+            "winner": {
+                "type": "Winner",
+                "prediction": "MC Alger",
+                "percentage": 77,
+                "cardType": [
+                    "multi-50"
+                ]
+            },
+            "totalgoals": {
+                "type": "Total Goals",
+                "prediction": "Over 2.5",
+                "percentage": 64
+            },
+            "htft": {
+                "type": "HT\/FT",
+                "prediction": "1\/1",
+                "percentage": 39
+            },
+            "correctscore": {
+                "type": "Correct Score",
+                "prediction": "2:1",
+                "percentage": 18
+            },
+            "btts": {
+                "type": "Both Teams To Score",
+                "prediction": "Yes",
+                "percentage": 67
+            }
+        },
+        "teamFlags": {
+            "MC Alger": "https:\/\/www.mybets.today\/images\/clubes\/mc-alger.png",
+            "El Bayadh": "https:\/\/www.mybets.today\/images\/clubes\/el-bayadh.png"
+        }
+    },
+    {
+        "matchId": 4,
+        "homeTeam": "Crystal Palace",
+        "awayTeam": "Fiorentina",
+        "matchTime": "20:00",
+        "matchDate": "2026-04-09T20:00:00+01:00",
+        "competitionName": "UEFA Conference League",
+        "leagueFlag": "https:\/\/www.mybets.today\/images\/leagues\/uefa-conference-league.png",
+        "predictions": {
+            "winner": {
+                "type": "Winner",
+                "prediction": "Crystal Palace",
+                "percentage": 64
+            },
+            "totalgoals": {
+                "type": "Total Goals",
+                "prediction": "Over 2.5",
+                "percentage": 61
+            },
+            "htft": {
+                "type": "HT\/FT",
+                "prediction": "1\/1",
+                "percentage": 27
+            },
+            "correctscore": {
+                "type": "Correct Score",
+                "prediction": "2:1",
+                "percentage": 18
+            },
+            "btts": {
+                "type": "Both Teams To Score",
+                "prediction": "Yes",
+                "percentage": 64
+            }
+        },
+        "teamFlags": {
+            "Crystal Palace": "https:\/\/www.mybets.today\/images\/clubes\/crystal-palace.png",
+            "Fiorentina": "https:\/\/www.mybets.today\/images\/clubes\/fiorentina.png"
+        }
+    },
+    {
+        "matchId": 7,
+        "homeTeam": "Mainz",
+        "awayTeam": "Strasbourg",
+        "matchTime": "20:00",
+        "matchDate": "2026-04-09T20:00:00+01:00",
+        "competitionName": "UEFA Conference League",
+        "leagueFlag": "https:\/\/www.mybets.today\/images\/leagues\/uefa-conference-league.png",
+        "predictions": {
+            "winner": {
+                "type": "Winner",
+                "prediction": "Mainz",
+                "percentage": 56
+            },
+            "totalgoals": {
+                "type": "Total Goals",
+                "prediction": "Over 2.5",
+                "percentage": 71,
+                "cardType": [
+                    "multi-50"
+                ]
+            },
+            "htft": {
+                "type": "HT\/FT",
+                "prediction": "X\/1",
+                "percentage": 40
+            },
+            "correctscore": {
+                "type": "Correct Score",
+                "prediction": "2:1",
+                "percentage": 15
+            },
+            "btts": {
+                "type": "Both Teams To Score",
+                "prediction": "Yes",
+                "percentage": 57,
+                "cardType": [
+                    "special"
+                ]
+            }
+        },
+        "teamFlags": {
+            "Mainz": "https:\/\/www.mybets.today\/images\/clubes\/mainz.png",
+            "Strasbourg": "https:\/\/www.mybets.today\/images\/clubes\/strasbourg.png"
+        }
+    },
+    {
+        "matchId": 94,
+        "homeTeam": "SC Freiburg",
+        "awayTeam": "Celta Vigo",
+        "matchTime": "20:00",
+        "matchDate": "2026-04-09T20:00:00+01:00",
+        "competitionName": "UEFA Europa League",
+        "leagueFlag": "https:\/\/www.mybets.today\/images\/leagues\/uefa-europa-league.png",
+        "predictions": {
+            "winner": {
+                "type": "Winner",
+                "prediction": "SC Freiburg",
+                "percentage": 51
+            },
+            "totalgoals": {
+                "type": "Total Goals",
+                "prediction": "Over 2.5",
+                "percentage": 66
+            },
+            "htft": {
+                "type": "HT\/FT",
+                "prediction": "X\/1",
+                "percentage": 32
+            },
+            "correctscore": {
+                "type": "Correct Score",
+                "prediction": "2:1",
+                "percentage": 17
+            },
+            "btts": {
+                "type": "Both Teams To Score",
+                "prediction": "Yes",
+                "percentage": 69
+            }
+        },
+        "teamFlags": {
+            "SC Freiburg": "https:\/\/www.mybets.today\/images\/clubes\/sc-freiburg.png",
+            "Celta Vigo": "https:\/\/www.mybets.today\/images\/clubes\/celta-vigo.png"
+        }
+    },
+    {
+        "matchId": 6,
+        "homeTeam": "Shakhtar Donetsk",
+        "awayTeam": "AZ",
+        "matchTime": "20:00",
+        "matchDate": "2026-04-09T20:00:00+01:00",
+        "competitionName": "UEFA Conference League",
+        "leagueFlag": "https:\/\/www.mybets.today\/images\/leagues\/uefa-conference-league.png",
+        "predictions": {
+            "winner": {
+                "type": "Winner",
+                "prediction": "Draw",
+                "percentage": 42,
+                "cardType": [
+                    "multi-50"
+                ]
+            },
+            "totalgoals": {
+                "type": "Total Goals",
+                "prediction": "Over 2.5",
+                "percentage": 67
+            },
+            "htft": {
+                "type": "HT\/FT",
+                "prediction": "X\/X",
+                "percentage": 33
+            },
+            "correctscore": {
+                "type": "Correct Score",
+                "prediction": "2:2",
+                "percentage": 18
+            },
+            "btts": {
+                "type": "Both Teams To Score",
+                "prediction": "Yes",
+                "percentage": 65
+            }
+        },
+        "teamFlags": {
+            "Shakhtar Donetsk": "https:\/\/www.mybets.today\/images\/clubes\/shakhtar-donetsk.png",
+            "AZ": "https:\/\/www.mybets.today\/images\/clubes\/az.png"
+        }
+    },
+    {
+        "matchId": 95,
+        "homeTeam": "FC Porto",
+        "awayTeam": "Nottm Forest",
+        "matchTime": "20:00",
+        "matchDate": "2026-04-09T20:00:00+01:00",
+        "competitionName": "UEFA Europa League",
+        "leagueFlag": "https:\/\/www.mybets.today\/images\/leagues\/uefa-europa-league.png",
+        "predictions": {
+            "winner": {
+                "type": "Winner",
+                "prediction": "FC Porto",
+                "percentage": 59,
+                "cardType": [
+                    "special"
+                ]
+            },
+            "totalgoals": {
+                "type": "Total Goals",
+                "prediction": "Under 2.5",
+                "percentage": 64
+            },
+            "htft": {
+                "type": "HT\/FT",
+                "prediction": "X\/1",
+                "percentage": 39
+            },
+            "correctscore": {
+                "type": "Correct Score",
+                "prediction": "1:0",
+                "percentage": 12
+            },
+            "btts": {
+                "type": "Both Teams To Score",
+                "prediction": "No",
+                "percentage": 64
+            }
+        },
+        "teamFlags": {
+            "FC Porto": "https:\/\/www.mybets.today\/images\/clubes\/fc-porto.png",
+            "Nottm Forest": "https:\/\/www.mybets.today\/images\/clubes\/nottm-forest.png"
+        }
+    },
+    {
+        "matchId": 96,
+        "homeTeam": "Bologna",
+        "awayTeam": "Aston Villa",
+        "matchTime": "20:00",
+        "matchDate": "2026-04-09T20:00:00+01:00",
+        "competitionName": "UEFA Europa League",
+        "leagueFlag": "https:\/\/www.mybets.today\/images\/leagues\/uefa-europa-league.png",
+        "predictions": {
+            "winner": {
+                "type": "Winner",
+                "prediction": "Aston Villa",
+                "percentage": 44
+            },
+            "totalgoals": {
+                "type": "Total Goals",
+                "prediction": "Over 2.5",
+                "percentage": 69
+            },
+            "htft": {
+                "type": "HT\/FT",
+                "prediction": "X\/2",
+                "percentage": 41
+            },
+            "correctscore": {
+                "type": "Correct Score",
+                "prediction": "1:2",
+                "percentage": 16
+            },
+            "btts": {
+                "type": "Both Teams To Score",
+                "prediction": "Yes",
+                "percentage": 59,
+                "cardType": [
+                    "multi-50"
+                ]
+            }
+        },
+        "teamFlags": {
+            "Bologna": "https:\/\/www.mybets.today\/images\/clubes\/bologna.png",
+            "Aston Villa": "https:\/\/www.mybets.today\/images\/clubes\/aston-villa.png"
+        }
+    },
+    {
+        "matchId": 284965,
+        "homeTeam": "Union Magdalena",
+        "awayTeam": "Envigado",
+        "matchTime": "22:00",
+        "matchDate": "2026-04-09T22:00:00+01:00",
+        "competitionName": "Colombia Primera B",
+        "leagueFlag": "https:\/\/www.mybets.today\/images\/leagues\/colombia-primera-b.png",
+        "predictions": {
+            "winner": {
+                "type": "Winner",
+                "prediction": "Union Magdalena",
+                "percentage": 67,
+                "cardType": [
+                    "multi-50"
+                ]
+            },
+            "totalgoals": {
+                "type": "Total Goals",
+                "prediction": "Over 2.5",
+                "percentage": 69
+            },
+            "htft": {
+                "type": "HT\/FT",
+                "prediction": "X\/1",
+                "percentage": 22,
+                "cardType": [
+                    "ht-ft"
+                ]
+            },
+            "correctscore": {
+                "type": "Correct Score",
+                "prediction": "2:1",
+                "percentage": 12
+            },
+            "btts": {
+                "type": "Both Teams To Score",
+                "prediction": "Yes",
+                "percentage": 65
+            }
+        },
+        "teamFlags": {
+            "Union Magdalena": "https:\/\/www.mybets.today\/images\/clubes\/union-magdalena.png",
+            "Envigado": "https:\/\/www.mybets.today\/images\/clubes\/envigado.png"
+        }
+    },
+    {
+        "matchId": 28,
+        "homeTeam": "UCV",
+        "awayTeam": "Libertad Asuncion",
+        "matchTime": "23:00",
+        "matchDate": "2026-04-09T23:00:00+01:00",
+        "competitionName": "Copa Libertadores",
+        "leagueFlag": "https:\/\/www.mybets.today\/images\/leagues\/copa-libertadores.png",
+        "predictions": {
+            "winner": {
+                "type": "Winner",
+                "prediction": "Draw",
+                "percentage": 44
+            },
+            "totalgoals": {
+                "type": "Total Goals",
+                "prediction": "Under 2.5",
+                "percentage": 65,
+                "cardType": [
+                    "multi-50"
+                ]
+            },
+            "htft": {
+                "type": "HT\/FT",
+                "prediction": "X\/X",
+                "percentage": 24
+            },
+            "correctscore": {
+                "type": "Correct Score",
+                "prediction": "0:0",
+                "percentage": 15
+            },
+            "btts": {
+                "type": "Both Teams To Score",
+                "prediction": "No",
+                "percentage": 71
+            }
+        },
+        "teamFlags": {
+            "UCV": "https:\/\/www.mybets.today\/images\/clubes\/ucv.png",
+            "Libertad Asuncion": "https:\/\/www.mybets.today\/images\/clubes\/libertad-asuncion.png"
+        }
+    },
+    {
+        "matchId": 284978,
+        "homeTeam": "Juventud De Las Piedras",
+        "awayTeam": "Cienciano",
+        "matchTime": "23:00",
+        "matchDate": "2026-04-09T23:00:00+01:00",
+        "competitionName": "Copa Sudamericana",
+        "leagueFlag": "https:\/\/www.mybets.today\/images\/leagues\/copa-sudamericana.png",
+        "predictions": {
+            "winner": {
+                "type": "Winner",
+                "prediction": "Juventud De Las Piedras",
+                "percentage": 56
+            },
+            "totalgoals": {
+                "type": "Total Goals",
+                "prediction": "Over 2.5",
+                "percentage": 62
+            },
+            "htft": {
+                "type": "HT\/FT",
+                "prediction": "X\/1",
+                "percentage": 29,
+                "cardType": [
+                    "multi-10"
+                ]
+            },
+            "correctscore": {
+                "type": "Correct Score",
+                "prediction": "2:1",
+                "percentage": 10,
+                "cardType": [
+                    "correct-score"
+                ]
+            },
+            "btts": {
+                "type": "Both Teams To Score",
+                "prediction": "Yes",
+                "percentage": 61
+            }
+        },
+        "teamFlags": {
+            "Juventud De Las Piedras": "https:\/\/www.mybets.today\/images\/clubes\/juventud-de-las-piedras.png",
+            "Cienciano": "https:\/\/www.mybets.today\/images\/clubes\/cienciano.png"
+        }
+    },
+    {
+        "matchId": 284979,
+        "homeTeam": "Botafogo",
+        "awayTeam": "Caracas",
+        "matchTime": "23:00",
+        "matchDate": "2026-04-09T23:00:00+01:00",
+        "competitionName": "Copa Sudamericana",
+        "leagueFlag": "https:\/\/www.mybets.today\/images\/leagues\/copa-sudamericana.png",
+        "predictions": {
+            "winner": {
+                "type": "Winner",
+                "prediction": "Botafogo",
+                "percentage": 79
+            },
+            "totalgoals": {
+                "type": "Total Goals",
+                "prediction": "Over 2.5",
+                "percentage": 66
+            },
+            "htft": {
+                "type": "HT\/FT",
+                "prediction": "1\/1",
+                "percentage": 41,
+                "cardType": [
+                    "multi-10"
+                ]
+            },
+            "correctscore": {
+                "type": "Correct Score",
+                "prediction": "3:0",
+                "percentage": 17
+            },
+            "btts": {
+                "type": "Both Teams To Score",
+                "prediction": "No",
+                "percentage": 64,
+                "cardType": [
+                    "multi-50"
+                ]
+            }
+        },
+        "teamFlags": {
+            "Botafogo": "https:\/\/www.mybets.today\/images\/clubes\/botafogo.png",
+            "Caracas": "https:\/\/www.mybets.today\/images\/clubes\/caracas.png"
+        }
+    },
+    {
+        "matchId": 26,
+        "homeTeam": "Rosario Central",
+        "awayTeam": "Independiente del Valle",
+        "matchTime": "23:00",
+        "matchDate": "2026-04-09T23:00:00+01:00",
+        "competitionName": "Copa Libertadores",
+        "leagueFlag": "https:\/\/www.mybets.today\/images\/leagues\/copa-libertadores.png",
+        "predictions": {
+            "winner": {
+                "type": "Winner",
+                "prediction": "Rosario Central",
+                "percentage": 66
+            },
+            "totalgoals": {
+                "type": "Total Goals",
+                "prediction": "Under 2.5",
+                "percentage": 67,
+                "cardType": [
+                    "multi-50"
+                ]
+            },
+            "htft": {
+                "type": "HT\/FT",
+                "prediction": "1\/1",
+                "percentage": 34
+            },
+            "correctscore": {
+                "type": "Correct Score",
+                "prediction": "1:0",
+                "percentage": 18
+            },
+            "btts": {
+                "type": "Both Teams To Score",
+                "prediction": "No",
+                "percentage": 73,
+                "cardType": [
+                    "mixed"
+                ]
+            }
+        },
+        "teamFlags": {
+            "Rosario Central": "https:\/\/www.mybets.today\/images\/clubes\/rosario-central.png",
+            "Independiente del Valle": "https:\/\/www.mybets.today\/images\/clubes\/independiente-del-valle.png"
+        }
+    }
+]

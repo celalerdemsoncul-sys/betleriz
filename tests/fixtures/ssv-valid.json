@@ -1,0 +1,5 @@
+{
+  "publicKey": "-----BEGIN PUBLIC KEY-----\nMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAENpJlyA44TW+JQiwyFMZq7KbzIbYY\nH/+vqQQjTSWpInKnRpaizeasW1WvW+XxrbBy4ynRRRe/UyyyI61Eo9fzKw==\n-----END PUBLIC KEY-----\n",
+  "payload": "ad_unit=123&custom_data=abc&reward_amount=1&reward_item=credit&timestamp=123&transaction_id=xyz&user_id=wallet",
+  "signature": "MEUCIE5LKmjWjXT2LOesJLBUbzYH5ViI0HEKUhLQ-EjMl0OZAiEAicOTV-ScvR3cIetows9vCxjY3-jM1JlhJv_dw0uOFRU"
+}

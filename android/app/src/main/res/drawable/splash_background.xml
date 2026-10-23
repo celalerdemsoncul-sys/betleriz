@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Background image -->
+    <item android:gravity="fill">
+        <bitmap
+            android:src="@drawable/background"
+            android:gravity="fill" />
+    </item>
+    
+    <!-- Splash screen logo centered and responsive -->
+    <item android:gravity="center">
+        <bitmap
+            android:src="@drawable/splashscreen"
+            android:gravity="center"
+            android:scaleType="fitCenter"
+            android:filter="true" />
+    </item>
+</layer-list>
